@@ -1,0 +1,21 @@
+# Environment / secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Power BI
+*.pbix.bak
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data (optional — uncomment if you don't want synthetic CSVs in the repo)
+# *.csv

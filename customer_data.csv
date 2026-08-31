@@ -1,0 +1,801 @@
+customer_id,branch_id,acc_no,customer_name,age,customer_type,city,region,created_at,updated_at
+1,12,8773801777,Amari Uzo,64,SME,Kano,Kano,10/6/2025 0:51,10/6/2025 0:51
+2,1,1408015090,Abasi Kator,27,Corporate,Owerri,Imo,2/16/2026 22:16,2/16/2026 22:16
+3,5,7583512658,Yusuf Ameh,75,Corporate,Ikeja,Lagos,1/23/2026 8:53,1/23/2026 8:53
+4,10,9657751427,Ngozi Garba,61,Individual,Ikeja,Lagos,3/20/2026 22:25,3/20/2026 22:25
+5,16,4384098766,Shim Aminu,36,SME,Port Harcourt,Rivers,11/6/2025 23:32,11/6/2025 23:32
+6,9,9270686975,Chukwuemeka Obaje,62,SME,Ibadan,Oyo,4/10/2026 23:27,4/10/2026 23:27
+7,8,9330963144,Zainab Nwosu,51,SME,Abuja,FCT,2/27/2026 17:32,2/27/2026 17:32
+8,1,9465682977,Blessing Ogunleye,27,Corporate,Jos,Plateau,9/20/2025 4:54,9/20/2025 4:54
+9,1,8816273718,Zainab Mohammed,76,SME,Kano,Kano,6/6/2026 16:50,6/6/2026 16:50
+10,2,3899371913,Micheal Okoro,32,Corporate,Enugu,Enugu,10/4/2025 3:21,10/4/2025 3:21
+11,3,2256264038,Matteo McCarthy,28,SME,Abuja,FCT,9/22/2025 21:02,9/22/2025 21:02
+12,15,3770547055,Adaeze Adenuga,69,Individual,Jos,Plateau,10/31/2025 4:08,10/31/2025 4:08
+13,17,1305610689,Femi Ikuponiyi,73,SME,Abuja,FCT,11/14/2025 19:36,11/14/2025 19:36
+14,2,7609061894,Yusuf Adebayo,39,SME,Owerri,Imo,12/31/2025 15:59,12/31/2025 15:59
+15,3,9173750126,Ifunanya Adeyemi,47,SME,Ibadan,Oyo,1/1/2026 4:03,1/1/2026 4:03
+16,10,9741134742,Kachio Chukwu,34,Individual,Enugu,Enugu,2/22/2026 14:41,2/22/2026 14:41
+17,17,1223851609,Chukwuemeka Adeyemi,37,SME,Benin City,Edo,5/31/2026 6:16,5/31/2026 6:16
+18,4,3080218096,Femi Balogun,51,SME,Kano,Kano,3/22/2026 2:39,3/22/2026 2:39
+19,13,4929945714,Aisha McCarthy,36,SME,Ikeja,Lagos,7/18/2026 18:01,7/18/2026 18:01
+20,9,3288875084,Amari Aminu,44,SME,Owerri,Imo,10/13/2025 3:55,10/13/2025 3:55
+21,6,7143533599,Kuyet Danjuma,31,Corporate,Kaduna,Kaduna,10/5/2025 18:54,10/5/2025 18:54
+22,11,2441663278,Emeka Igwe,57,Corporate,Jos,Plateau,7/13/2026 2:46,7/13/2026 2:46
+23,8,7410580199,Chinedu Munir,31,SME,Abuja,FCT,9/7/2025 19:39,9/7/2025 19:39
+24,4,8391486871,Yayock Abubakar,41,Individual,Ibadan,Oyo,4/10/2026 21:36,4/10/2026 21:36
+25,17,6156843899,Shim Eze,43,Corporate,Benin City,Edo,6/23/2026 22:16,6/23/2026 22:16
+26,8,7960485225,Tunde Adebayo,55,Corporate,Owerri,Imo,9/17/2025 17:32,9/17/2025 17:32
+27,18,540166534,Emeka Oni,55,Corporate,Ibadan,Oyo,12/30/2025 19:45,12/30/2025 19:45
+28,2,788600563,Emeka Balogun,76,SME,Port Harcourt,Rivers,11/24/2025 7:37,11/24/2025 7:37
+29,9,6627661876,Femi Danjuma,41,Corporate,Enugu,Enugu,8/26/2025 4:18,8/26/2025 4:18
+30,14,9605301320,Kasham Ameh,45,Corporate,Owerri,Imo,2/1/2026 8:32,2/1/2026 8:32
+31,8,7333180269,Fortunatus McCarthy,29,SME,Owerri,Imo,3/11/2026 16:48,3/11/2026 16:48
+32,5,1936089051,Zainab Tony,71,Corporate,Uyo,Akwa Ibom,12/24/2025 15:09,12/24/2025 15:09
+33,9,6935150036,Yusuf Ibrahim,32,Corporate,Owerri,Imo,1/12/2026 16:20,1/12/2026 16:20
+34,12,5110765992,Ngozi Mohammed,73,Corporate,Uyo,Akwa Ibom,11/8/2025 11:19,11/8/2025 11:19
+35,6,6638787232,Chiamaka Akanbi,51,Corporate,Jos,Plateau,10/18/2025 14:10,10/18/2025 14:10
+36,8,9323176311,Adaeze Okafor,50,Corporate,Lagos,Lagos,6/2/2026 2:01,6/2/2026 2:01
+37,16,6582195520,Ngozi Oni,20,SME,Ibadan,Oyo,11/14/2025 13:05,11/14/2025 13:05
+38,3,2257584853,Tolani Balogun,68,SME,Ondo,Akure,8/15/2026 18:33,8/15/2026 18:33
+39,14,4471977591,Zhea Nnamdi,21,Individual,Owerri,Imo,3/29/2026 3:41,3/29/2026 3:41
+40,14,3193078796,Katurak Sani,56,Individual,Abuja,FCT,5/19/2026 11:37,5/19/2026 11:37
+41,10,2419686344,Ngozi Okonkwo,67,Corporate,Cross-River,Calabar,11/22/2025 12:57,11/22/2025 12:57
+42,18,7363406795,Itoro Kator,46,SME,Lagos,Lagos,1/15/2026 22:28,1/15/2026 22:28
+43,17,9408715295,Adaeze Suleiman,62,Corporate,Enugu,Enugu,8/15/2026 4:11,8/15/2026 4:11
+44,16,1833573408,Amari Akanbi,18,SME,Abuja,FCT,3/13/2026 7:31,3/13/2026 7:31
+45,1,8516656053,Abasi Tony,35,Corporate,Abuja,FCT,1/12/2026 2:19,1/12/2026 2:19
+46,1,2136969887,Nabari Eze,38,Individual,Cross-River,Calabar,8/12/2026 5:40,8/12/2026 5:40
+47,13,2174002657,Ifunanya Obaje,27,SME,Ikeja,Lagos,2/19/2026 8:43,2/19/2026 8:43
+48,7,7406564751,Ngozi Bishio,30,SME,Kaduna,Kaduna,1/5/2026 11:58,1/5/2026 11:58
+49,17,5442395804,Fortunatus Bishio,33,Corporate,Abuja,FCT,3/15/2026 1:17,3/15/2026 1:17
+50,1,3326910313,Ifunanya Nwosu,22,Corporate,Jos,Plateau,8/18/2025 5:22,8/18/2025 5:22
+51,6,1062614166,Femi Okonkwo,78,SME,Port Harcourt,Rivers,12/16/2025 20:01,12/16/2025 20:01
+52,10,1724562176,Aisha Ibrahim,76,SME,Ibadan,Oyo,5/30/2026 13:00,5/30/2026 13:00
+53,11,2404981820,Halima Akanbi,67,Individual,Lagos,Lagos,5/2/2026 21:36,5/2/2026 21:36
+54,11,3909197560,Yayock Adeyemi,26,Individual,Ikeja,Lagos,1/28/2026 19:47,1/28/2026 19:47
+55,1,750360503,Babajide Sani,26,SME,Lagos,Lagos,4/27/2026 19:18,4/27/2026 19:18
+56,5,7554797851,Folake Chukwu,52,Individual,Owerri,Imo,2/8/2026 3:10,2/8/2026 3:10
+57,1,6538358544,Pelumi Ibrahim,18,SME,Benin City,Edo,6/18/2026 1:45,6/18/2026 1:45
+58,9,5020570561,Adaeze Suleiman,71,Corporate,Ondo,Akure,12/5/2025 20:35,12/5/2025 20:35
+59,2,7555872987,Chukwuemeka Daloba,33,Corporate,Ondo,Akure,6/26/2026 4:46,6/26/2026 4:46
+60,6,3693692312,Tolani McCarthy,78,Individual,Ondo,Akure,10/4/2025 4:23,10/4/2025 4:23
+61,6,7319617773,Femi Oni,60,Corporate,Benin City,Edo,7/16/2026 21:20,7/16/2026 21:20
+62,8,1629771073,Chinedu Adenuga,76,Individual,Cross-River,Calabar,7/27/2026 10:30,7/27/2026 10:30
+63,6,8983442496,Chinedu Okafor,39,SME,Lagos,Lagos,3/18/2026 3:00,3/18/2026 3:00
+64,15,521596905,Abasi Danjuma,72,Corporate,Kano,Kano,3/15/2026 0:44,3/15/2026 0:44
+65,14,345222667,Emeka Musa,32,SME,Ondo,Akure,2/5/2026 4:17,2/5/2026 4:17
+66,3,349926507,Kachio Munir,63,Individual,Benin City,Edo,5/15/2026 17:23,5/15/2026 17:23
+67,8,9202662500,Ngozi Kator,66,SME,Kano,Kano,4/13/2026 18:02,4/13/2026 18:02
+68,17,8440479028,Pelumi Balogun,44,Individual,Benin City,Edo,6/22/2026 5:03,6/22/2026 5:03
+69,9,1482761083,Halima Daloba,46,Individual,Enugu,Enugu,10/30/2025 7:28,10/30/2025 7:28
+70,14,976258644,Ibrahim Abubakar,78,SME,Ikeja,Lagos,10/28/2025 21:00,10/28/2025 21:00
+71,12,2564186356,Itoro Sani,20,SME,Ondo,Akure,8/10/2026 23:09,8/10/2026 23:09
+72,18,619138203,Chiamaka Ibe,63,Corporate,Port Harcourt,Rivers,6/6/2026 16:10,6/6/2026 16:10
+73,10,4966244695,Amari Adeyemi,35,Individual,Jos,Plateau,4/9/2026 5:23,4/9/2026 5:23
+74,3,8514676927,Amina Daloba,36,Corporate,Owerri,Imo,2/11/2026 12:48,2/11/2026 12:48
+75,17,7405216531,Katurak Adebayo,55,SME,Port Harcourt,Rivers,6/1/2026 1:56,6/1/2026 1:56
+76,12,8222725897,Tunde Ibrahim,58,SME,Benin City,Edo,3/3/2026 19:55,3/3/2026 19:55
+77,5,9086066643,Faith Ikuponiyi,30,Individual,Owerri,Imo,4/9/2026 7:28,4/9/2026 7:28
+78,4,8427232731,Katurak Adenuga,59,Individual,Enugu,Enugu,1/28/2026 21:12,1/28/2026 21:12
+79,16,4219998385,Chiamaka Chukwu,42,Individual,Kano,Kano,5/23/2026 7:00,5/23/2026 7:00
+80,17,1025973732,Zainab Mohammed,73,SME,Kano,Kano,5/17/2026 14:30,5/17/2026 14:30
+81,2,6263789790,Grace Okonkwo,55,Individual,Lagos,Lagos,10/21/2025 0:17,10/21/2025 0:17
+82,15,9552166107,Adaeze Garba,24,Corporate,Ikeja,Lagos,1/20/2026 15:30,1/20/2026 15:30
+83,16,675896828,Shim Sani,29,SME,Owerri,Imo,9/30/2025 21:46,9/30/2025 21:46
+84,5,6425051653,Kuyet Adenuga,70,SME,Ondo,Akure,6/6/2026 4:35,6/6/2026 4:35
+85,17,8905230384,Adunni Tony,52,Corporate,Benin City,Edo,8/16/2025 22:51,8/16/2025 22:51
+86,12,8406081794,Kachio Munir,20,Corporate,Abuja,FCT,9/10/2025 14:23,9/10/2025 14:23
+87,2,5143605346,Aisha Suleiman,45,SME,Ondo,Akure,7/19/2026 4:52,7/19/2026 4:52
+88,18,6207252548,Femi Ibrahim,49,Corporate,Ikeja,Lagos,12/5/2025 17:27,12/5/2025 17:27
+89,6,9051254551,Abasi Obaje,66,Individual,Lagos,Lagos,6/12/2026 14:04,6/12/2026 14:04
+90,9,8926092832,Adaeze Bishio,73,SME,Ikeja,Lagos,10/31/2025 6:38,10/31/2025 6:38
+91,12,7593760712,Aisha Uzo,47,SME,Uyo,Akwa Ibom,6/1/2026 10:41,6/1/2026 10:41
+92,13,2296146834,Zhea Akanbi,33,SME,Jos,Plateau,4/13/2026 9:26,4/13/2026 9:26
+93,2,3188267542,Matteo Yambuat,37,SME,Enugu,Enugu,8/16/2025 9:34,8/16/2025 9:34
+94,10,6265199221,Babajide Tony,34,Individual,Kano,Kano,10/6/2025 1:36,10/6/2025 1:36
+95,7,2831189151,Kasham Yambuat,56,Individual,Abuja,FCT,2/20/2026 2:17,2/20/2026 2:17
+96,11,2531700157,Shim Daloba,51,Individual,Enugu,Enugu,12/7/2025 15:04,12/7/2025 15:04
+97,10,1318953073,Blessing Musa,59,Corporate,Ibadan,Oyo,10/25/2025 22:57,10/25/2025 22:57
+98,3,9837907231,Tissan Ogunleye,47,SME,Uyo,Akwa Ibom,4/22/2026 20:48,4/22/2026 20:48
+99,2,6862441642,Nabari Ikuponiyi,74,Individual,Kaduna,Kaduna,4/8/2026 3:58,4/8/2026 3:58
+100,5,8539106354,Babajide Munir,43,SME,Benin City,Edo,8/23/2025 20:40,8/23/2025 20:40
+101,18,7755539135,Chiamaka Sani,19,SME,Benin City,Edo,5/3/2026 15:31,5/3/2026 15:31
+102,15,915746469,Adaeze Ikuponiyi,73,Individual,Enugu,Enugu,12/6/2025 21:43,12/6/2025 21:43
+103,15,1378668678,Tolani Garba,55,Corporate,Port Harcourt,Rivers,10/11/2025 11:40,10/11/2025 11:40
+104,2,2861871830,Babajide Balogun,70,Individual,Ondo,Akure,6/9/2026 23:19,6/9/2026 23:19
+105,6,1513297897,Chiamaka Adeyemi,50,Individual,Ondo,Akure,6/19/2026 15:32,6/19/2026 15:32
+106,2,158338855,Adaeze Musa,76,Individual,Cross-River,Calabar,12/26/2025 0:15,12/26/2025 0:15
+107,12,3150397557,Obinna Munir,30,Corporate,Kano,Kano,3/24/2026 13:38,3/24/2026 13:38
+108,12,2815774913,Kasham Aminu,41,Individual,Owerri,Imo,9/12/2025 21:29,9/12/2025 21:29
+109,6,3770049861,Shim Garba,37,Individual,Lagos,Lagos,2/17/2026 14:01,2/17/2026 14:01
+110,13,930694071,Femi Ogunleye,20,Corporate,Ikeja,Lagos,4/30/2026 7:55,4/30/2026 7:55
+111,14,5157398332,Ibrahim Adenuga,41,Individual,Enugu,Enugu,7/17/2026 20:55,7/17/2026 20:55
+112,13,4910999851,Chukwuemeka Nnamdi,66,SME,Kaduna,Kaduna,2/24/2026 1:00,2/24/2026 1:00
+113,7,6045638511,Pelumi Yambuat,64,SME,Abuja,FCT,10/30/2025 11:02,10/30/2025 11:02
+114,4,6181673031,Amina Kator,30,Corporate,Lagos,Lagos,1/1/2026 17:01,1/1/2026 17:01
+115,13,7836067535,Oluwaseun Adeyemi,76,Individual,Ondo,Akure,8/13/2026 9:29,8/13/2026 9:29
+116,1,4968519443,Babajide Nnamdi,60,Individual,Port Harcourt,Rivers,11/15/2025 6:55,11/15/2025 6:55
+117,13,5350596110,Ifunanya Danjuma,43,Individual,Ibadan,Oyo,6/1/2026 23:36,6/1/2026 23:36
+118,2,4777193538,Halima Aminu,69,Individual,Benin City,Edo,4/14/2026 21:13,4/14/2026 21:13
+119,10,8773540503,Kachio Adebayo,24,Individual,Jos,Plateau,10/30/2025 21:42,10/30/2025 21:42
+120,1,8034069644,Pelumi Obaje,49,Corporate,Abuja,FCT,9/15/2025 19:11,9/15/2025 19:11
+121,18,9903030265,Joshua Mohammed,68,Corporate,Port Harcourt,Rivers,2/20/2026 10:04,2/20/2026 10:04
+122,15,4913876954,Matteo Abubakar,76,Corporate,Ibadan,Oyo,11/15/2025 6:28,11/15/2025 6:28
+123,4,4920384071,Faith Uzo,66,Corporate,Port Harcourt,Rivers,6/25/2026 3:49,6/25/2026 3:49
+124,5,7158451488,Joshua Abubakar,70,Individual,Uyo,Akwa Ibom,3/14/2026 13:42,3/14/2026 13:42
+125,3,1547785495,Adaeze Bishio,34,Corporate,Ondo,Akure,5/7/2026 20:25,5/7/2026 20:25
+126,5,3201610211,Blessing Musa,58,Individual,Ibadan,Oyo,8/2/2026 2:55,8/2/2026 2:55
+127,2,9008522267,Kasham Munir,63,Individual,Ondo,Akure,3/2/2026 23:28,3/2/2026 23:28
+128,1,8927050616,Kasham Nwosu,22,Individual,Ondo,Akure,10/5/2025 23:48,10/5/2025 23:48
+129,13,1125769336,Aisha Oni,79,Individual,Ikeja,Lagos,10/19/2025 9:31,10/19/2025 9:31
+130,7,7992865020,Kuyet Okonkwo,63,SME,Uyo,Akwa Ibom,10/17/2025 21:36,10/17/2025 21:36
+131,8,816468612,Emeka Adenuga,57,Corporate,Port Harcourt,Rivers,3/21/2026 23:30,3/21/2026 23:30
+132,5,590285666,Zhea Sani,31,Individual,Enugu,Enugu,12/31/2025 3:14,12/31/2025 3:14
+133,9,7180898361,Nabari Abubakar,64,SME,Uyo,Akwa Ibom,6/26/2026 0:29,6/26/2026 0:29
+134,9,8148741665,Tolani Obaje,42,Individual,Uyo,Akwa Ibom,4/15/2026 14:34,4/15/2026 14:34
+135,10,6040422208,Chiamaka Okoro,21,Individual,Abuja,FCT,1/4/2026 20:16,1/4/2026 20:16
+136,17,4697429954,Abasi Suleiman,69,SME,Ikeja,Lagos,8/5/2026 19:30,8/5/2026 19:30
+137,13,8992986551,Ifunanya Suleiman,70,SME,Uyo,Akwa Ibom,1/5/2026 11:22,1/5/2026 11:22
+138,5,7170406364,Obinna Munir,69,Corporate,Ondo,Akure,1/27/2026 14:23,1/27/2026 14:23
+139,16,7612956779,Micheal Igwe,23,Corporate,Cross-River,Calabar,4/3/2026 13:27,4/3/2026 13:27
+140,13,182122510,Blessing Sani,58,Individual,Kaduna,Kaduna,7/20/2026 16:16,7/20/2026 16:16
+141,11,1902723335,Ibrahim Daloba,42,SME,Uyo,Akwa Ibom,11/18/2025 19:48,11/18/2025 19:48
+142,3,8841872808,Katurak Daloba,56,Individual,Benin City,Edo,7/1/2026 16:22,7/1/2026 16:22
+143,10,1541756060,Adunni Igwe,39,SME,Abuja,FCT,7/6/2026 20:02,7/6/2026 20:02
+144,1,8977611753,Joshua Akanbi,70,SME,Ondo,Akure,3/3/2026 10:37,3/3/2026 10:37
+145,8,1687654692,Zhea Sani,30,SME,Jos,Plateau,9/29/2025 4:35,9/29/2025 4:35
+146,18,3521975505,Aisha Bishio,66,Individual,Uyo,Akwa Ibom,9/2/2025 11:58,9/2/2025 11:58
+147,18,5987193725,Yayock Adenuga,39,Individual,Ibadan,Oyo,1/28/2026 23:39,1/28/2026 23:39
+148,3,6684778257,Ifunanya Suleiman,74,SME,Kaduna,Kaduna,1/12/2026 6:05,1/12/2026 6:05
+149,12,7495208119,Faith Sani,21,Corporate,Uyo,Akwa Ibom,3/26/2026 2:31,3/26/2026 2:31
+150,3,4436262470,Matteo Adenuga,48,Corporate,Ondo,Akure,3/7/2026 9:13,3/7/2026 9:13
+151,18,2826236274,Amina Adenuga,39,Individual,Owerri,Imo,4/28/2026 18:14,4/28/2026 18:14
+152,12,6396530127,Pelumi Musa,36,Corporate,Kaduna,Kaduna,6/20/2026 4:10,6/20/2026 4:10
+153,15,3462724191,Kasham Ikuponiyi,41,Corporate,Lagos,Lagos,8/20/2025 11:42,8/20/2025 11:42
+154,14,6865635191,Zainab Balogun,73,SME,Kano,Kano,12/16/2025 4:48,12/16/2025 4:48
+155,6,9190256360,Obinna Aminu,38,SME,Jos,Plateau,5/28/2026 16:20,5/28/2026 16:20
+156,18,6361463063,Kuyet Kator,59,SME,Benin City,Edo,7/2/2026 16:01,7/2/2026 16:01
+157,12,2019656736,Ifunanya Adebayo,62,Corporate,Ibadan,Oyo,6/9/2026 22:37,6/9/2026 22:37
+158,13,7859786814,Abasi Akanbi,73,Individual,Kano,Kano,5/16/2026 1:14,5/16/2026 1:14
+159,4,1771569359,Katurak Tony,37,SME,Owerri,Imo,9/29/2025 3:13,9/29/2025 3:13
+160,12,9955789411,Halima Balogun,31,SME,Cross-River,Calabar,7/19/2026 14:09,7/19/2026 14:09
+161,8,9120984607,Tissan Ibe,48,Corporate,Abuja,FCT,12/9/2025 23:45,12/9/2025 23:45
+162,15,75899998,Blessing Suleiman,74,Corporate,Ondo,Akure,5/2/2026 7:50,5/2/2026 7:50
+163,18,8738697819,Kuyet Daloba,49,Corporate,Lagos,Lagos,4/6/2026 19:40,4/6/2026 19:40
+164,16,2568586957,Koni Yambuat,43,Corporate,Port Harcourt,Rivers,5/8/2026 6:37,5/8/2026 6:37
+165,15,6239901917,Chinedu Abubakar,70,SME,Kano,Kano,3/10/2026 19:18,3/10/2026 19:18
+166,18,8097544025,Grace Tony,77,Individual,Uyo,Akwa Ibom,4/21/2026 11:00,4/21/2026 11:00
+167,16,2286098044,Amari Eze,22,SME,Kaduna,Kaduna,3/17/2026 4:55,3/17/2026 4:55
+168,6,562857195,Adunni Musa,56,Individual,Ibadan,Oyo,4/27/2026 18:44,4/27/2026 18:44
+169,8,8190899532,Halima Yambuat,44,Individual,Kaduna,Kaduna,6/11/2026 6:05,6/11/2026 6:05
+170,18,180228447,Chiamaka Nwosu,76,SME,Benin City,Edo,11/18/2025 15:19,11/18/2025 15:19
+171,3,9518302947,Kuyet Akanbi,36,Individual,Abuja,FCT,2/22/2026 5:58,2/22/2026 5:58
+172,4,7517033503,Adunni Danjuma,40,Individual,Ibadan,Oyo,10/8/2025 7:00,10/8/2025 7:00
+173,10,3514828741,Shim Ameh,55,Individual,Kaduna,Kaduna,7/5/2026 3:48,7/5/2026 3:48
+174,17,8490610858,Aisha Adebayo,53,Individual,Uyo,Akwa Ibom,11/7/2025 4:37,11/7/2025 4:37
+175,7,8909549936,Femi Danjuma,51,Individual,Lagos,Lagos,1/11/2026 12:52,1/11/2026 12:52
+176,15,6127819988,Yayock Abubakar,31,Corporate,Enugu,Enugu,11/5/2025 7:00,11/5/2025 7:00
+177,9,4927393162,Tunde Tony,18,Individual,Cross-River,Calabar,1/24/2026 2:25,1/24/2026 2:25
+178,9,7295912721,Tolani Suleiman,39,Corporate,Abuja,FCT,8/22/2025 14:22,8/22/2025 14:22
+179,5,5826460627,Katurak Okafor,49,SME,Uyo,Akwa Ibom,5/3/2026 17:43,5/3/2026 17:43
+180,5,8461290465,Ngozi Adenuga,79,Corporate,Lagos,Lagos,1/24/2026 12:58,1/24/2026 12:58
+181,17,3009623047,Shim Okonkwo,39,Individual,Uyo,Akwa Ibom,8/4/2026 5:07,8/4/2026 5:07
+182,16,1243242830,Emeka Uzo,37,Corporate,Kaduna,Kaduna,10/22/2025 3:25,10/22/2025 3:25
+183,11,7821425458,Faith Adenuga,76,Individual,Ibadan,Oyo,9/20/2025 7:33,9/20/2025 7:33
+184,15,5167270785,Faith Tony,37,Individual,Enugu,Enugu,5/12/2026 8:30,5/12/2026 8:30
+185,14,1451195856,Zainab Ameh,45,SME,Ibadan,Oyo,7/6/2026 6:25,7/6/2026 6:25
+186,11,1086961345,Ibrahim Igwe,37,SME,Kaduna,Kaduna,7/13/2026 23:09,7/13/2026 23:09
+187,16,4892199085,Oluwaseun Nnamdi,41,Corporate,Abuja,FCT,5/27/2026 19:44,5/27/2026 19:44
+188,9,6478293119,Itoro Oni,79,SME,Uyo,Akwa Ibom,3/23/2026 19:02,3/23/2026 19:02
+189,17,6138124664,Halima Bishio,24,Individual,Kano,Kano,1/9/2026 2:14,1/9/2026 2:14
+190,10,3086239408,Micheal Adeyemi,51,SME,Ibadan,Oyo,10/19/2025 7:53,10/19/2025 7:53
+191,10,6700400467,Micheal Adeyemi,74,SME,Ondo,Akure,11/8/2025 0:34,11/8/2025 0:34
+192,13,3919881354,Koni Ibrahim,74,SME,Cross-River,Calabar,7/21/2026 1:55,7/21/2026 1:55
+193,11,5732773841,Zhea Ibe,37,SME,Owerri,Imo,3/20/2026 3:49,3/20/2026 3:49
+194,4,7409320875,Amina Danjuma,76,Individual,Owerri,Imo,3/21/2026 4:38,3/21/2026 4:38
+195,12,828320500,Zhea Tony,41,Individual,Jos,Plateau,12/9/2025 14:23,12/9/2025 14:23
+196,5,9374940371,Oluwaseun Suleiman,22,Individual,Owerri,Imo,9/2/2025 14:43,9/2/2025 14:43
+197,3,2962709644,Amina Yambuat,44,SME,Jos,Plateau,6/3/2026 7:37,6/3/2026 7:37
+198,16,9482401924,Chiamaka Tony,21,Corporate,Abuja,FCT,8/8/2026 9:59,8/8/2026 9:59
+199,9,7936367183,Adaeze Chukwu,71,SME,Port Harcourt,Rivers,2/2/2026 6:04,2/2/2026 6:04
+200,5,1944891001,Shim Ikuponiyi,69,Individual,Port Harcourt,Rivers,8/6/2026 4:14,8/6/2026 4:14
+201,5,3036107644,Fortunatus Abubakar,80,Corporate,Ibadan,Oyo,4/16/2026 16:33,4/16/2026 16:33
+202,6,2336537683,Amari Uzo,34,Corporate,Owerri,Imo,6/5/2026 19:09,6/5/2026 19:09
+203,5,6544043688,Halima Oni,56,SME,Kaduna,Kaduna,10/26/2025 5:37,10/26/2025 5:37
+204,13,8692577191,Blessing Danjuma,46,Individual,Owerri,Imo,11/10/2025 12:09,11/10/2025 12:09
+205,14,7434316808,Adunni Uzo,32,Individual,Benin City,Edo,7/9/2026 9:34,7/9/2026 9:34
+206,11,6500317387,Adunni Adenuga,54,Corporate,Jos,Plateau,2/28/2026 16:38,2/28/2026 16:38
+207,3,6201426513,Chiamaka Bishio,54,Corporate,Ikeja,Lagos,3/1/2026 4:09,3/1/2026 4:09
+208,6,4027420057,Ngozi Igwe,55,Individual,Owerri,Imo,9/25/2025 1:06,9/25/2025 1:06
+209,9,6801212487,Yayock Bello,32,SME,Ikeja,Lagos,5/26/2026 11:03,5/26/2026 11:03
+210,16,1835030284,Aisha Oni,25,Corporate,Kaduna,Kaduna,3/1/2026 11:51,3/1/2026 11:51
+211,15,2274911,Fortunatus Musa,28,Corporate,Lagos,Lagos,8/8/2026 13:00,8/8/2026 13:00
+212,3,1403505193,Joshua Okoro,38,Corporate,Kano,Kano,12/15/2025 19:22,12/15/2025 19:22
+213,13,4558395951,Kuyet Adeyemi,61,SME,Lagos,Lagos,4/30/2026 17:13,4/30/2026 17:13
+214,12,3961444690,Ngozi Yambuat,44,Corporate,Port Harcourt,Rivers,9/27/2025 7:08,9/27/2025 7:08
+215,18,2652759586,Yayock Ameh,58,Corporate,Owerri,Imo,10/31/2025 15:32,10/31/2025 15:32
+216,12,5867442762,Fortunatus Suleiman,72,Individual,Jos,Plateau,5/19/2026 8:33,5/19/2026 8:33
+217,9,4325039443,Yayock Abubakar,64,Corporate,Cross-River,Calabar,3/23/2026 9:02,3/23/2026 9:02
+218,1,5434083452,Earnest Eze,69,Individual,Port Harcourt,Rivers,10/14/2025 4:04,10/14/2025 4:04
+219,3,7245775014,Emeka Nwosu,27,SME,Kano,Kano,3/7/2026 14:23,3/7/2026 14:23
+220,11,9762470678,Koni Bello,80,Corporate,Kano,Kano,9/11/2025 0:32,9/11/2025 0:32
+221,13,8346300929,Adaeze Akanbi,25,Corporate,Lagos,Lagos,10/3/2025 11:29,10/3/2025 11:29
+222,3,7321772292,Fortunatus Uzo,68,Individual,Enugu,Enugu,12/19/2025 2:28,12/19/2025 2:28
+223,16,3593631635,Kachio Adeyemi,19,Individual,Enugu,Enugu,5/12/2026 20:34,5/12/2026 20:34
+224,5,6842963457,Zhea Uzo,51,Corporate,Kaduna,Kaduna,12/10/2025 11:01,12/10/2025 11:01
+225,4,560429755,Aisha Sani,57,Individual,Ondo,Akure,7/14/2026 1:25,7/14/2026 1:25
+226,16,625786411,Micheal Daloba,52,Corporate,Kano,Kano,1/1/2026 10:24,1/1/2026 10:24
+227,10,6772756719,Chukwuemeka Balogun,25,Corporate,Ibadan,Oyo,12/21/2025 17:54,12/21/2025 17:54
+228,1,4258566674,Katurak Bello,60,Individual,Owerri,Imo,11/8/2025 16:51,11/8/2025 16:51
+229,18,2960251970,Adunni Daloba,28,Corporate,Owerri,Imo,6/7/2026 4:56,6/7/2026 4:56
+230,11,41449087,Itoro Daloba,20,SME,Jos,Plateau,4/24/2026 19:43,4/24/2026 19:43
+231,9,3359532696,Pelumi Eze,41,Corporate,Uyo,Akwa Ibom,8/16/2026 5:35,8/16/2026 5:35
+232,6,4898680660,Ibrahim Abubakar,28,SME,Kaduna,Kaduna,2/2/2026 19:49,2/2/2026 19:49
+233,15,1058906149,Fortunatus McCarthy,76,Corporate,Cross-River,Calabar,3/20/2026 5:43,3/20/2026 5:43
+234,3,5292959623,Chiamaka Munir,67,Corporate,Jos,Plateau,4/27/2026 11:53,4/27/2026 11:53
+235,15,185432468,Earnest Daloba,46,Corporate,Lagos,Lagos,7/25/2026 19:34,7/25/2026 19:34
+236,18,9900980290,Adunni Suleiman,31,Corporate,Kano,Kano,12/2/2025 4:17,12/2/2025 4:17
+237,16,8884225593,Ibrahim McCarthy,52,SME,Lagos,Lagos,9/26/2025 13:58,9/26/2025 13:58
+238,1,5892741184,Ngozi Adebayo,30,Individual,Ondo,Akure,9/5/2025 17:40,9/5/2025 17:40
+239,13,7878453625,Oluwaseun Suleiman,70,Corporate,Abuja,FCT,6/1/2026 4:34,6/1/2026 4:34
+240,8,4936013276,Folake Obaje,31,Corporate,Ondo,Akure,7/19/2026 7:02,7/19/2026 7:02
+241,8,1520770460,Zhea Mohammed,30,SME,Ikeja,Lagos,11/11/2025 13:19,11/11/2025 13:19
+242,5,847383395,Ifunanya Aminu,19,Corporate,Lagos,Lagos,2/14/2026 23:16,2/14/2026 23:16
+243,13,2977144157,Abasi Okonkwo,61,Individual,Jos,Plateau,9/2/2025 12:46,9/2/2025 12:46
+244,16,8491807954,Chukwuemeka Okafor,53,SME,Ondo,Akure,10/21/2025 8:12,10/21/2025 8:12
+245,13,738537726,Fortunatus Ibrahim,54,Corporate,Uyo,Akwa Ibom,7/22/2026 12:48,7/22/2026 12:48
+246,10,8244955022,Faith Musa,72,Corporate,Jos,Plateau,8/16/2026 14:03,8/16/2026 14:03
+247,12,2838761259,Matteo Ogunleye,50,SME,Enugu,Enugu,9/1/2025 1:08,9/1/2025 1:08
+248,2,6939245957,Nabari Garba,25,Corporate,Lagos,Lagos,6/5/2026 11:47,6/5/2026 11:47
+249,6,4585981338,Obinna Igwe,77,Corporate,Kano,Kano,11/5/2025 16:04,11/5/2025 16:04
+250,17,3006328162,Emeka Abubakar,20,Individual,Uyo,Akwa Ibom,4/9/2026 6:13,4/9/2026 6:13
+251,17,5471268801,Earnest Tony,52,Individual,Ibadan,Oyo,2/18/2026 7:29,2/18/2026 7:29
+252,6,5579068596,Chiamaka Eze,55,Corporate,Abuja,FCT,2/27/2026 5:54,2/27/2026 5:54
+253,5,8882170028,Blessing Okafor,26,SME,Port Harcourt,Rivers,2/2/2026 17:16,2/2/2026 17:16
+254,17,2056081925,Oluwaseun Bishio,53,SME,Uyo,Akwa Ibom,2/10/2026 15:03,2/10/2026 15:03
+255,11,6195502947,Chukwuemeka Kator,19,Corporate,Kano,Kano,6/8/2026 6:22,6/8/2026 6:22
+256,11,2547978327,Amina Adenuga,24,Individual,Owerri,Imo,1/5/2026 2:36,1/5/2026 2:36
+257,16,8990604599,Chiamaka Ameh,38,SME,Port Harcourt,Rivers,8/28/2025 8:52,8/28/2025 8:52
+258,4,8212473783,Emeka Ameh,42,SME,Lagos,Lagos,5/30/2026 18:50,5/30/2026 18:50
+259,11,3097202239,Faith Adenuga,68,Corporate,Port Harcourt,Rivers,6/5/2026 8:08,6/5/2026 8:08
+260,5,4949826645,Aisha Abubakar,66,SME,Benin City,Edo,2/10/2026 9:15,2/10/2026 9:15
+261,4,5891302856,Tolani Bishio,59,Corporate,Cross-River,Calabar,6/27/2026 6:37,6/27/2026 6:37
+262,1,9088014335,Femi Adeyemi,71,Corporate,Ikeja,Lagos,10/1/2025 22:26,10/1/2025 22:26
+263,1,6739629657,Yusuf Adebayo,31,Individual,Abuja,FCT,7/27/2026 2:23,7/27/2026 2:23
+264,8,1853675864,Tolani Bello,44,SME,Kaduna,Kaduna,9/26/2025 5:25,9/26/2025 5:25
+265,12,1728022785,Yayock Munir,61,SME,Port Harcourt,Rivers,2/28/2026 9:53,2/28/2026 9:53
+266,6,6543001311,Ifunanya Nnamdi,55,Individual,Port Harcourt,Rivers,9/9/2025 18:08,9/9/2025 18:08
+267,10,7902659374,Obinna Akanbi,29,SME,Enugu,Enugu,4/6/2026 15:53,4/6/2026 15:53
+268,18,8186766305,Kuyet Adebayo,68,SME,Ikeja,Lagos,5/25/2026 19:35,5/25/2026 19:35
+269,4,9871258897,Aisha Tony,37,SME,Port Harcourt,Rivers,5/6/2026 8:47,5/6/2026 8:47
+270,7,5283938339,Itoro Ibrahim,62,Corporate,Cross-River,Calabar,4/14/2026 8:24,4/14/2026 8:24
+271,18,9054686893,Yayock Danjuma,47,Individual,Kaduna,Kaduna,2/3/2026 10:18,2/3/2026 10:18
+272,2,1127993117,Tunde Kator,26,Corporate,Lagos,Lagos,11/23/2025 7:25,11/23/2025 7:25
+273,4,3553264626,Folake Bishio,60,Corporate,Ikeja,Lagos,12/21/2025 18:06,12/21/2025 18:06
+274,4,1065523196,Tolani Obaje,55,Corporate,Kaduna,Kaduna,10/20/2025 20:42,10/20/2025 20:42
+275,1,1308621475,Yayock Nnamdi,64,SME,Kano,Kano,8/28/2025 23:15,8/28/2025 23:15
+276,15,1925988415,Halima Ogunleye,35,SME,Cross-River,Calabar,11/6/2025 9:02,11/6/2025 9:02
+277,16,8154645650,Katurak Uzo,50,Individual,Uyo,Akwa Ibom,5/31/2026 8:04,5/31/2026 8:04
+278,16,286998187,Micheal Suleiman,60,SME,Jos,Plateau,7/19/2026 8:58,7/19/2026 8:58
+279,6,4779477982,Amina Adebayo,74,Individual,Lagos,Lagos,11/3/2025 4:45,11/3/2025 4:45
+280,18,5117579175,Chukwuemeka Munir,70,Corporate,Ikeja,Lagos,8/6/2026 7:50,8/6/2026 7:50
+281,13,935290545,Tolani Adebayo,50,SME,Enugu,Enugu,8/6/2026 17:01,8/6/2026 17:01
+282,14,6646140897,Yayock Garba,23,SME,Jos,Plateau,11/29/2025 11:22,11/29/2025 11:22
+283,10,9881855503,Earnest Adeyemi,39,Individual,Jos,Plateau,2/5/2026 2:32,2/5/2026 2:32
+284,3,2698303212,Itoro Ibe,59,Corporate,Ikeja,Lagos,10/7/2025 13:57,10/7/2025 13:57
+285,1,7308906114,Shim Tony,33,SME,Owerri,Imo,7/18/2026 15:29,7/18/2026 15:29
+286,15,1106675990,Tunde Garba,73,Corporate,Jos,Plateau,4/28/2026 7:57,4/28/2026 7:57
+287,14,3034654856,Amari Obaje,29,Corporate,Owerri,Imo,11/11/2025 17:41,11/11/2025 17:41
+288,7,5360071559,Koni Okoro,51,Corporate,Kano,Kano,8/3/2026 12:48,8/3/2026 12:48
+289,13,5860402714,Earnest Suleiman,65,SME,Jos,Plateau,2/19/2026 12:05,2/19/2026 12:05
+290,14,890748786,Femi Daloba,63,Corporate,Kaduna,Kaduna,4/15/2026 5:34,4/15/2026 5:34
+291,13,9327202380,Nabari Tony,67,SME,Ondo,Akure,10/11/2025 18:00,10/11/2025 18:00
+292,13,2715351120,Ifunanya Ogunleye,79,SME,Abuja,FCT,2/8/2026 23:23,2/8/2026 23:23
+293,18,2623107125,Amina Bishio,56,SME,Abuja,FCT,11/1/2025 13:55,11/1/2025 13:55
+294,5,9518967067,Grace Yambuat,52,Corporate,Benin City,Edo,4/7/2026 23:51,4/7/2026 23:51
+295,5,4269031652,Obinna Nwosu,39,Corporate,Enugu,Enugu,2/15/2026 13:14,2/15/2026 13:14
+296,9,6417893924,Earnest Oni,75,SME,Port Harcourt,Rivers,11/20/2025 20:52,11/20/2025 20:52
+297,9,203001627,Joshua Bello,36,Individual,Owerri,Imo,12/30/2025 20:57,12/30/2025 20:57
+298,13,291078398,Koni Obaje,60,SME,Jos,Plateau,2/20/2026 13:55,2/20/2026 13:55
+299,11,1330527611,Kuyet Eze,73,Individual,Ikeja,Lagos,8/11/2026 21:54,8/11/2026 21:54
+300,6,8017607887,Nabari Ikuponiyi,52,Corporate,Lagos,Lagos,3/21/2026 12:58,3/21/2026 12:58
+301,17,3703228453,Nabari Sani,77,SME,Kano,Kano,1/21/2026 19:13,1/21/2026 19:13
+302,16,6632595672,Emeka Aminu,47,Corporate,Abuja,FCT,7/31/2026 20:37,7/31/2026 20:37
+303,18,4672156852,Zainab Daloba,64,Individual,Benin City,Edo,5/28/2026 9:22,5/28/2026 9:22
+304,15,2790946586,Ibrahim Eze,44,SME,Cross-River,Calabar,11/19/2025 9:02,11/19/2025 9:02
+305,14,610784054,Folake Eze,23,SME,Port Harcourt,Rivers,10/7/2025 16:08,10/7/2025 16:08
+306,5,943174107,Kuyet McCarthy,55,Corporate,Kaduna,Kaduna,2/8/2026 17:49,2/8/2026 17:49
+307,11,5072714975,Matteo Aminu,73,Individual,Kaduna,Kaduna,7/18/2026 15:38,7/18/2026 15:38
+308,10,8232660636,Tolani Aminu,78,Individual,Uyo,Akwa Ibom,3/28/2026 7:24,3/28/2026 7:24
+309,7,3103930504,Nabari Musa,72,SME,Ikeja,Lagos,1/25/2026 18:56,1/25/2026 18:56
+310,2,3906590550,Tissan Balogun,20,SME,Ondo,Akure,1/7/2026 6:12,1/7/2026 6:12
+311,13,8922028760,Pelumi McCarthy,73,Corporate,Kaduna,Kaduna,11/10/2025 22:13,11/10/2025 22:13
+312,13,4854769081,Blessing Ibe,69,SME,Cross-River,Calabar,11/17/2025 16:39,11/17/2025 16:39
+313,8,2457919411,Pelumi Yambuat,73,SME,Kano,Kano,12/31/2025 22:26,12/31/2025 22:26
+314,11,7515580890,Katurak Musa,51,SME,Lagos,Lagos,7/29/2026 17:39,7/29/2026 17:39
+315,7,6970529192,Shim McCarthy,57,SME,Kaduna,Kaduna,3/13/2026 15:06,3/13/2026 15:06
+316,4,6562511637,Kuyet Suleiman,32,Individual,Uyo,Akwa Ibom,5/2/2026 3:55,5/2/2026 3:55
+317,10,5336317390,Ifunanya Igwe,47,SME,Cross-River,Calabar,3/24/2026 20:00,3/24/2026 20:00
+318,1,6733986574,Femi Sani,79,Individual,Uyo,Akwa Ibom,5/2/2026 5:43,5/2/2026 5:43
+319,8,3873912579,Aisha Oni,40,Individual,Benin City,Edo,7/30/2026 4:45,7/30/2026 4:45
+320,9,3469214731,Babajide Garba,49,Corporate,Lagos,Lagos,3/5/2026 3:00,3/5/2026 3:00
+321,15,9343357721,Micheal Oni,55,SME,Abuja,FCT,3/4/2026 5:11,3/4/2026 5:11
+322,17,4498037246,Chiamaka Obaje,55,Corporate,Benin City,Edo,12/17/2025 3:25,12/17/2025 3:25
+323,12,6433981252,Joshua Okafor,22,Individual,Jos,Plateau,8/19/2025 15:15,8/19/2025 15:15
+324,2,8626583886,Chiamaka Abubakar,48,Corporate,Port Harcourt,Rivers,5/4/2026 10:36,5/4/2026 10:36
+325,5,5697985426,Babajide Munir,76,SME,Ondo,Akure,11/7/2025 23:53,11/7/2025 23:53
+326,13,7840524367,Earnest Munir,58,Corporate,Benin City,Edo,12/1/2025 19:00,12/1/2025 19:00
+327,9,3570707939,Babajide Adeyemi,52,SME,Benin City,Edo,12/28/2025 18:26,12/28/2025 18:26
+328,11,8761389417,Zainab Yambuat,20,Corporate,Uyo,Akwa Ibom,5/2/2026 19:24,5/2/2026 19:24
+329,7,2535823972,Grace Tony,53,Individual,Enugu,Enugu,5/29/2026 5:23,5/29/2026 5:23
+330,18,1307921185,Yayock Daloba,62,SME,Kaduna,Kaduna,1/12/2026 12:43,1/12/2026 12:43
+331,5,3032043499,Yusuf Ikuponiyi,53,SME,Ikeja,Lagos,9/27/2025 2:02,9/27/2025 2:02
+332,14,6271559252,Tolani Kator,67,SME,Benin City,Edo,2/28/2026 15:05,2/28/2026 15:05
+333,12,433844713,Chiamaka Okonkwo,26,Individual,Owerri,Imo,4/10/2026 7:39,4/10/2026 7:39
+334,17,2894207891,Adaeze Balogun,66,Corporate,Kano,Kano,9/13/2025 21:11,9/13/2025 21:11
+335,16,8371086839,Fortunatus Okafor,32,SME,Ibadan,Oyo,8/22/2025 18:46,8/22/2025 18:46
+336,18,7243172183,Chukwuemeka Okonkwo,57,Corporate,Ikeja,Lagos,12/25/2025 6:05,12/25/2025 6:05
+337,12,8233530964,Faith Okafor,27,Corporate,Kano,Kano,12/27/2025 12:43,12/27/2025 12:43
+338,5,6776270043,Obinna Adebayo,21,Individual,Uyo,Akwa Ibom,6/21/2026 7:29,6/21/2026 7:29
+339,7,6728877694,Koni Okonkwo,54,Corporate,Ikeja,Lagos,10/11/2025 11:29,10/11/2025 11:29
+340,11,5505719545,Katurak Oni,24,Individual,Ibadan,Oyo,3/11/2026 10:40,3/11/2026 10:40
+341,8,3207885182,Tissan Suleiman,23,SME,Enugu,Enugu,2/9/2026 4:00,2/9/2026 4:00
+342,15,939706032,Abasi Okafor,70,SME,Ondo,Akure,6/12/2026 0:04,6/12/2026 0:04
+343,14,76382355,Shim Adebayo,43,SME,Port Harcourt,Rivers,10/6/2025 13:26,10/6/2025 13:26
+344,16,5904779575,Tolani Ibe,76,Corporate,Kaduna,Kaduna,1/2/2026 5:24,1/2/2026 5:24
+345,13,1280731221,Earnest Bishio,79,Corporate,Benin City,Edo,8/16/2025 12:19,8/16/2025 12:19
+346,14,1889026378,Chinedu Okonkwo,56,SME,Lagos,Lagos,3/25/2026 9:22,3/25/2026 9:22
+347,1,8733560852,Aisha Adenuga,67,Individual,Kaduna,Kaduna,6/18/2026 18:47,6/18/2026 18:47
+348,10,8273048050,Amina Danjuma,25,Corporate,Benin City,Edo,12/25/2025 15:43,12/25/2025 15:43
+349,4,9256094695,Chinedu Ibrahim,27,Corporate,Port Harcourt,Rivers,12/18/2025 20:44,12/18/2025 20:44
+350,9,3579661718,Amari Ibrahim,31,Individual,Jos,Plateau,9/17/2025 8:00,9/17/2025 8:00
+351,17,1112921466,Adaeze Tony,25,Corporate,Owerri,Imo,3/10/2026 18:29,3/10/2026 18:29
+352,9,2845187442,Halima Adenuga,32,Individual,Uyo,Akwa Ibom,5/10/2026 17:32,5/10/2026 17:32
+353,16,4599261466,Zainab Ogunleye,41,SME,Cross-River,Calabar,2/27/2026 15:25,2/27/2026 15:25
+354,15,6173192472,Folake Chukwu,47,Individual,Enugu,Enugu,12/31/2025 18:34,12/31/2025 18:34
+355,12,2905705195,Zhea Balogun,24,Corporate,Benin City,Edo,12/21/2025 16:59,12/21/2025 16:59
+356,5,588122133,Koni Eze,26,SME,Uyo,Akwa Ibom,12/12/2025 1:16,12/12/2025 1:16
+357,13,6106416110,Abasi Uzo,59,Corporate,Jos,Plateau,9/20/2025 20:23,9/20/2025 20:23
+358,7,4155781232,Kuyet Aminu,42,Corporate,Cross-River,Calabar,4/15/2026 20:27,4/15/2026 20:27
+359,17,270589614,Adaeze Yambuat,34,Corporate,Lagos,Lagos,8/10/2026 10:26,8/10/2026 10:26
+360,14,8987738481,Aisha Akanbi,37,Corporate,Lagos,Lagos,2/28/2026 3:35,2/28/2026 3:35
+361,16,469631067,Aisha Musa,79,SME,Ibadan,Oyo,8/29/2025 14:17,8/29/2025 14:17
+362,6,1628604131,Faith Daloba,47,SME,Benin City,Edo,12/15/2025 10:03,12/15/2025 10:03
+363,14,9705168345,Abasi Suleiman,66,SME,Ondo,Akure,12/31/2025 21:58,12/31/2025 21:58
+364,5,2111804518,Fortunatus Musa,62,SME,Lagos,Lagos,1/7/2026 11:28,1/7/2026 11:28
+365,6,2102136529,Fortunatus Chukwu,64,Individual,Kaduna,Kaduna,3/27/2026 15:42,3/27/2026 15:42
+366,9,6642352955,Micheal Ibrahim,37,SME,Owerri,Imo,1/4/2026 16:32,1/4/2026 16:32
+367,8,7728866227,Kuyet Yambuat,66,SME,Ikeja,Lagos,12/22/2025 6:34,12/22/2025 6:34
+368,17,7657360345,Ngozi Danjuma,49,Corporate,Ondo,Akure,9/13/2025 22:20,9/13/2025 22:20
+369,5,4947736462,Nabari Ikuponiyi,30,Corporate,Enugu,Enugu,7/21/2026 18:05,7/21/2026 18:05
+370,12,1952000953,Oluwaseun Akanbi,68,SME,Cross-River,Calabar,3/29/2026 6:40,3/29/2026 6:40
+371,7,6746734011,Halima Ikuponiyi,71,Individual,Cross-River,Calabar,8/9/2026 9:16,8/9/2026 9:16
+372,13,4189661911,Itoro Musa,52,Corporate,Ikeja,Lagos,10/20/2025 21:14,10/20/2025 21:14
+373,10,5478559767,Nabari Bishio,33,Individual,Enugu,Enugu,5/6/2026 9:55,5/6/2026 9:55
+374,6,6230365232,Halima Nnamdi,33,Individual,Ibadan,Oyo,11/1/2025 14:45,11/1/2025 14:45
+375,10,1621029641,Tolani Tony,20,Corporate,Cross-River,Calabar,8/23/2025 2:27,8/23/2025 2:27
+376,13,2378111609,Micheal Musa,50,Corporate,Jos,Plateau,8/15/2026 10:36,8/15/2026 10:36
+377,2,9345896567,Abasi Okafor,20,Corporate,Cross-River,Calabar,8/13/2026 19:46,8/13/2026 19:46
+378,2,3280774507,Ngozi Tony,33,Individual,Cross-River,Calabar,3/27/2026 13:14,3/27/2026 13:14
+379,6,1254709629,Katurak Igwe,39,Individual,Cross-River,Calabar,8/11/2026 7:26,8/11/2026 7:26
+380,7,3529355789,Fortunatus Uzo,77,SME,Benin City,Edo,8/4/2026 8:51,8/4/2026 8:51
+381,10,1424149717,Obinna Okonkwo,28,Corporate,Benin City,Edo,5/9/2026 22:15,5/9/2026 22:15
+382,8,511509218,Zainab Okoro,49,Corporate,Kano,Kano,12/27/2025 2:53,12/27/2025 2:53
+383,16,6888726457,Aisha Ibe,25,Individual,Owerri,Imo,12/9/2025 4:30,12/9/2025 4:30
+384,1,6519612680,Babajide Mohammed,44,Corporate,Port Harcourt,Rivers,4/4/2026 9:23,4/4/2026 9:23
+385,18,1428396160,Zainab Bishio,58,Corporate,Owerri,Imo,3/15/2026 11:02,3/15/2026 11:02
+386,18,4629668390,Blessing Musa,64,Corporate,Cross-River,Calabar,12/4/2025 1:31,12/4/2025 1:31
+387,5,6557396950,Joshua Adeyemi,18,SME,Lagos,Lagos,2/4/2026 12:29,2/4/2026 12:29
+388,2,1533583534,Chinedu Eze,30,Corporate,Ikeja,Lagos,9/12/2025 8:20,9/12/2025 8:20
+389,7,8231401280,Fortunatus Eze,43,SME,Ikeja,Lagos,6/14/2026 19:02,6/14/2026 19:02
+390,6,8773430007,Fortunatus Nnamdi,40,Corporate,Ondo,Akure,4/7/2026 0:34,4/7/2026 0:34
+391,10,1281197211,Femi Suleiman,56,SME,Abuja,FCT,11/17/2025 23:40,11/17/2025 23:40
+392,12,8035734626,Faith Musa,68,Corporate,Port Harcourt,Rivers,2/20/2026 3:35,2/20/2026 3:35
+393,10,7056687589,Itoro Balogun,41,Corporate,Kaduna,Kaduna,3/25/2026 13:00,3/25/2026 13:00
+394,9,9451411030,Folake Tony,47,Individual,Ikeja,Lagos,6/5/2026 20:37,6/5/2026 20:37
+395,8,1417890480,Nabari Bello,20,SME,Owerri,Imo,12/26/2025 14:24,12/26/2025 14:24
+396,16,1753399304,Tunde Garba,66,Individual,Port Harcourt,Rivers,12/11/2025 2:40,12/11/2025 2:40
+397,12,7477432851,Femi Ibrahim,53,Individual,Enugu,Enugu,6/6/2026 1:59,6/6/2026 1:59
+398,17,9375578873,Kuyet Ibe,69,Corporate,Kano,Kano,11/20/2025 14:55,11/20/2025 14:55
+399,3,3210999644,Kachio Yambuat,67,SME,Port Harcourt,Rivers,1/28/2026 9:01,1/28/2026 9:01
+400,2,5034608134,Chinedu Yambuat,50,Corporate,Kaduna,Kaduna,5/29/2026 22:23,5/29/2026 22:23
+401,4,951503978,Tissan Eze,18,SME,Ondo,Akure,11/27/2025 8:14,11/27/2025 8:14
+402,12,2163513432,Tissan Oni,58,Individual,Owerri,Imo,3/23/2026 15:58,3/23/2026 15:58
+403,17,3171859274,Amina Obaje,51,Corporate,Ibadan,Oyo,3/18/2026 19:12,3/18/2026 19:12
+404,5,7946218934,Zhea Akanbi,26,SME,Ondo,Akure,12/20/2025 2:46,12/20/2025 2:46
+405,11,3408965141,Abasi Uzo,44,Corporate,Uyo,Akwa Ibom,1/2/2026 1:33,1/2/2026 1:33
+406,10,267806632,Shim Suleiman,39,Corporate,Kaduna,Kaduna,1/4/2026 7:16,1/4/2026 7:16
+407,1,9956757971,Ngozi Eze,41,Individual,Owerri,Imo,8/15/2026 4:37,8/15/2026 4:37
+408,14,2562759502,Katurak Suleiman,29,SME,Cross-River,Calabar,12/28/2025 8:28,12/28/2025 8:28
+409,12,8761436940,Yusuf Tony,65,SME,Jos,Plateau,8/21/2025 23:59,8/21/2025 23:59
+410,5,5179052128,Aisha Mohammed,42,Individual,Cross-River,Calabar,10/17/2025 12:04,10/17/2025 12:04
+411,9,1480861248,Kasham Yambuat,71,SME,Cross-River,Calabar,11/21/2025 1:27,11/21/2025 1:27
+412,10,7087641724,Blessing Okoro,56,Corporate,Kano,Kano,7/24/2026 23:50,7/24/2026 23:50
+413,14,4122278546,Amari Aminu,57,SME,Port Harcourt,Rivers,12/23/2025 22:36,12/23/2025 22:36
+414,9,7252041894,Adunni Uzo,45,Individual,Kano,Kano,5/25/2026 23:05,5/25/2026 23:05
+415,18,7328427931,Koni Aminu,67,Corporate,Owerri,Imo,5/20/2026 19:12,5/20/2026 19:12
+416,13,9888297599,Joshua Balogun,22,SME,Ibadan,Oyo,3/2/2026 4:58,3/2/2026 4:58
+417,4,7175243239,Zhea Suleiman,47,Corporate,Jos,Plateau,4/3/2026 12:39,4/3/2026 12:39
+418,11,3106931152,Babajide Munir,61,SME,Port Harcourt,Rivers,11/11/2025 18:34,11/11/2025 18:34
+419,5,6009747673,Tunde Eze,54,Corporate,Jos,Plateau,5/13/2026 19:05,5/13/2026 19:05
+420,6,9031758624,Ibrahim Danjuma,25,Corporate,Kaduna,Kaduna,6/10/2026 6:56,6/10/2026 6:56
+421,14,8273925813,Chinedu Uzo,40,SME,Kano,Kano,3/15/2026 14:23,3/15/2026 14:23
+422,4,2584339879,Abasi Adenuga,31,SME,Lagos,Lagos,10/21/2025 13:10,10/21/2025 13:10
+423,5,9303858696,Ngozi Ibe,25,Corporate,Ibadan,Oyo,8/7/2026 20:37,8/7/2026 20:37
+424,18,539659505,Ibrahim Nwosu,69,SME,Ibadan,Oyo,11/3/2025 8:56,11/3/2025 8:56
+425,4,9593890654,Zhea Okafor,68,Corporate,Uyo,Akwa Ibom,5/5/2026 14:48,5/5/2026 14:48
+426,1,4772780892,Adaeze Bishio,27,Individual,Ondo,Akure,9/21/2025 3:06,9/21/2025 3:06
+427,4,8296432035,Obinna Yambuat,54,Individual,Cross-River,Calabar,4/12/2026 10:01,4/12/2026 10:01
+428,8,3124675980,Kachio Ameh,75,Individual,Ikeja,Lagos,6/23/2026 11:29,6/23/2026 11:29
+429,1,5575151343,Yayock Oni,77,Individual,Kano,Kano,10/29/2025 14:38,10/29/2025 14:38
+430,8,5142738403,Kasham Adeyemi,23,Individual,Cross-River,Calabar,8/23/2025 4:16,8/23/2025 4:16
+431,8,405714284,Femi Tony,37,Corporate,Cross-River,Calabar,11/9/2025 6:22,11/9/2025 6:22
+432,10,5950074971,Amari Musa,45,Individual,Kaduna,Kaduna,9/23/2025 13:17,9/23/2025 13:17
+433,6,7185154755,Tissan Okonkwo,32,Corporate,Benin City,Edo,10/28/2025 8:35,10/28/2025 8:35
+434,14,5581667870,Kuyet Musa,65,Individual,Kaduna,Kaduna,4/1/2026 17:53,4/1/2026 17:53
+435,10,5351101697,Babajide Ibrahim,43,Individual,Enugu,Enugu,10/2/2025 0:15,10/2/2025 0:15
+436,5,3454739864,Faith Bello,68,Individual,Lagos,Lagos,3/14/2026 3:30,3/14/2026 3:30
+437,14,7991816134,Yayock Suleiman,80,SME,Owerri,Imo,8/29/2025 17:50,8/29/2025 17:50
+438,3,9626656541,Yusuf Eze,75,Individual,Lagos,Lagos,2/4/2026 14:24,2/4/2026 14:24
+439,17,6338433422,Ngozi Suleiman,69,SME,Ikeja,Lagos,10/8/2025 12:58,10/8/2025 12:58
+440,16,8867613968,Zhea Okonkwo,51,SME,Ibadan,Oyo,5/2/2026 15:08,5/2/2026 15:08
+441,6,6021832817,Kuyet Obaje,54,SME,Ibadan,Oyo,7/24/2026 21:25,7/24/2026 21:25
+442,15,7276344137,Ibrahim Ogunleye,28,SME,Jos,Plateau,1/7/2026 6:37,1/7/2026 6:37
+443,14,6204241066,Babajide Sani,37,SME,Uyo,Akwa Ibom,7/27/2026 3:35,7/27/2026 3:35
+444,8,8200653965,Tissan Balogun,27,SME,Kaduna,Kaduna,1/7/2026 10:53,1/7/2026 10:53
+445,15,5682508706,Kachio Aminu,79,SME,Kaduna,Kaduna,5/24/2026 12:03,5/24/2026 12:03
+446,4,1141638710,Fortunatus Okafor,21,SME,Lagos,Lagos,6/8/2026 8:10,6/8/2026 8:10
+447,16,4261407199,Pelumi Chukwu,22,Individual,Cross-River,Calabar,10/17/2025 15:05,10/17/2025 15:05
+448,4,9450646985,Emeka Eze,60,Corporate,Kano,Kano,10/22/2025 7:29,10/22/2025 7:29
+449,14,463847226,Amina Ogunleye,67,Individual,Enugu,Enugu,2/19/2026 13:45,2/19/2026 13:45
+450,1,3166772458,Ibrahim McCarthy,59,SME,Ibadan,Oyo,7/4/2026 23:42,7/4/2026 23:42
+451,7,4530781816,Zhea Yambuat,72,SME,Owerri,Imo,8/5/2026 21:23,8/5/2026 21:23
+452,16,7662787090,Tunde Uzo,75,SME,Enugu,Enugu,12/25/2025 12:01,12/25/2025 12:01
+453,13,7728244854,Amina Adenuga,32,Corporate,Kaduna,Kaduna,6/30/2026 6:17,6/30/2026 6:17
+454,10,1282753939,Matteo Balogun,58,Individual,Jos,Plateau,5/12/2026 5:33,5/12/2026 5:33
+455,10,865366750,Kachio Mohammed,24,Corporate,Abuja,FCT,9/16/2025 9:54,9/16/2025 9:54
+456,12,3806117113,Kasham Ameh,26,Individual,Ondo,Akure,5/10/2026 23:30,5/10/2026 23:30
+457,12,5475870017,Ifunanya Igwe,34,Individual,Ondo,Akure,5/31/2026 6:14,5/31/2026 6:14
+458,5,8919305160,Amina Mohammed,24,SME,Owerri,Imo,1/6/2026 15:20,1/6/2026 15:20
+459,5,6743063139,Yayock Ameh,27,SME,Uyo,Akwa Ibom,11/4/2025 14:30,11/4/2025 14:30
+460,12,1682174969,Grace Danjuma,72,SME,Uyo,Akwa Ibom,11/21/2025 2:37,11/21/2025 2:37
+461,3,7431834313,Tunde Adeyemi,25,Individual,Owerri,Imo,3/31/2026 4:43,3/31/2026 4:43
+462,3,3474886046,Oluwaseun Daloba,62,Corporate,Kaduna,Kaduna,11/15/2025 1:37,11/15/2025 1:37
+463,2,3495142346,Femi Adenuga,58,Corporate,Port Harcourt,Rivers,11/28/2025 21:37,11/28/2025 21:37
+464,17,2462598458,Micheal Munir,19,Individual,Lagos,Lagos,12/15/2025 5:49,12/15/2025 5:49
+465,1,7674456833,Amari Balogun,32,Corporate,Kaduna,Kaduna,12/16/2025 22:55,12/16/2025 22:55
+466,3,1870655173,Amari Okoro,67,Corporate,Ikeja,Lagos,1/20/2026 2:03,1/20/2026 2:03
+467,1,4300134014,Ibrahim Okonkwo,39,Corporate,Benin City,Edo,4/22/2026 13:40,4/22/2026 13:40
+468,9,1488836868,Obinna Igwe,33,Individual,Cross-River,Calabar,5/1/2026 17:43,5/1/2026 17:43
+469,11,4069505661,Pelumi Munir,46,SME,Ibadan,Oyo,11/9/2025 11:54,11/9/2025 11:54
+470,18,8256463459,Zainab Ibe,25,SME,Cross-River,Calabar,7/16/2026 1:55,7/16/2026 1:55
+471,5,258637523,Tunde Suleiman,51,Individual,Ibadan,Oyo,6/2/2026 15:29,6/2/2026 15:29
+472,7,7821601964,Emeka Ameh,39,SME,Cross-River,Calabar,3/25/2026 8:17,3/25/2026 8:17
+473,17,1761078543,Ibrahim Ibe,66,Individual,Uyo,Akwa Ibom,11/14/2025 22:22,11/14/2025 22:22
+474,17,9461184497,Joshua Danjuma,59,Corporate,Kaduna,Kaduna,2/5/2026 20:15,2/5/2026 20:15
+475,17,3913356470,Matteo Abubakar,37,Corporate,Cross-River,Calabar,1/29/2026 18:38,1/29/2026 18:38
+476,9,7571535854,Chiamaka Suleiman,79,SME,Ikeja,Lagos,6/18/2026 19:29,6/18/2026 19:29
+477,4,4538885148,Amina Ogunleye,78,Individual,Owerri,Imo,11/23/2025 23:39,11/23/2025 23:39
+478,10,1459330414,Obinna Ikuponiyi,49,Corporate,Owerri,Imo,5/15/2026 11:51,5/15/2026 11:51
+479,4,1741415610,Shim Garba,77,SME,Owerri,Imo,2/22/2026 12:19,2/22/2026 12:19
+480,11,9667573756,Itoro Suleiman,76,Corporate,Uyo,Akwa Ibom,12/30/2025 14:08,12/30/2025 14:08
+481,12,9727759731,Amari Ibe,20,SME,Lagos,Lagos,5/18/2026 3:57,5/18/2026 3:57
+482,15,9950531344,Koni Tony,55,Corporate,Lagos,Lagos,11/19/2025 5:39,11/19/2025 5:39
+483,13,5326849514,Obinna Eze,72,SME,Enugu,Enugu,2/6/2026 9:58,2/6/2026 9:58
+484,7,956321076,Chukwuemeka Balogun,73,SME,Abuja,FCT,10/7/2025 23:38,10/7/2025 23:38
+485,5,1993381528,Kachio McCarthy,19,SME,Owerri,Imo,3/26/2026 17:53,3/26/2026 17:53
+486,15,4242568221,Yayock Sani,68,Corporate,Uyo,Akwa Ibom,4/28/2026 16:55,4/28/2026 16:55
+487,16,2500463576,Joshua Munir,54,SME,Kano,Kano,7/11/2026 5:13,7/11/2026 5:13
+488,13,3795908746,Halima Ikuponiyi,48,Individual,Enugu,Enugu,11/12/2025 22:15,11/12/2025 22:15
+489,3,676226058,Matteo McCarthy,48,Individual,Ikeja,Lagos,5/10/2026 11:39,5/10/2026 11:39
+490,8,9781730352,Obinna Mohammed,58,Individual,Kaduna,Kaduna,1/11/2026 19:40,1/11/2026 19:40
+491,12,3467440219,Halima Ikuponiyi,80,SME,Cross-River,Calabar,11/12/2025 16:46,11/12/2025 16:46
+492,13,7273266516,Joshua Yambuat,25,Individual,Jos,Plateau,1/18/2026 3:09,1/18/2026 3:09
+493,13,6611999772,Zhea Adebayo,71,Individual,Enugu,Enugu,3/16/2026 20:28,3/16/2026 20:28
+494,3,8401702793,Ngozi Ikuponiyi,56,SME,Benin City,Edo,9/26/2025 0:48,9/26/2025 0:48
+495,8,538236140,Chukwuemeka Bishio,29,SME,Cross-River,Calabar,6/29/2026 10:57,6/29/2026 10:57
+496,4,3456547699,Aisha Ameh,80,Corporate,Abuja,FCT,3/15/2026 8:10,3/15/2026 8:10
+497,7,4868634838,Chinedu Okonkwo,32,Individual,Ondo,Akure,7/10/2026 21:55,7/10/2026 21:55
+498,9,7789453810,Grace Chukwu,50,SME,Abuja,FCT,11/12/2025 10:41,11/12/2025 10:41
+499,3,1674223362,Aisha Okonkwo,66,SME,Jos,Plateau,8/15/2026 2:21,8/15/2026 2:21
+500,9,1049439497,Koni Garba,45,SME,Cross-River,Calabar,9/16/2025 16:06,9/16/2025 16:06
+501,16,5890215069,Joshua Chukwu,29,Corporate,Ibadan,Oyo,2/15/2026 4:35,2/15/2026 4:35
+502,2,6096887205,Grace Akanbi,77,Individual,Ikeja,Lagos,5/2/2026 21:08,5/2/2026 21:08
+503,13,9773510387,Koni Bello,37,Corporate,Ondo,Akure,8/23/2025 1:51,8/23/2025 1:51
+504,5,2834732156,Adaeze Suleiman,56,Individual,Uyo,Akwa Ibom,11/21/2025 15:04,11/21/2025 15:04
+505,2,9808819580,Itoro Akanbi,48,SME,Kaduna,Kaduna,11/24/2025 5:24,11/24/2025 5:24
+506,2,1445847643,Faith Suleiman,21,Corporate,Port Harcourt,Rivers,11/9/2025 6:44,11/9/2025 6:44
+507,10,3116242406,Blessing Uzo,29,Individual,Ibadan,Oyo,1/14/2026 4:33,1/14/2026 4:33
+508,17,268540553,Zhea Sani,57,SME,Port Harcourt,Rivers,4/11/2026 6:55,4/11/2026 6:55
+509,7,8872673543,Tolani Musa,59,Individual,Ikeja,Lagos,12/9/2025 10:41,12/9/2025 10:41
+510,5,5113195962,Tissan Nwosu,68,Corporate,Cross-River,Calabar,4/19/2026 14:16,4/19/2026 14:16
+511,7,5239301295,Adunni Obaje,19,Individual,Lagos,Lagos,12/19/2025 23:16,12/19/2025 23:16
+512,16,4058635933,Blessing Bishio,58,Individual,Abuja,FCT,4/3/2026 11:18,4/3/2026 11:18
+513,8,6393142399,Ngozi Oni,28,SME,Cross-River,Calabar,5/8/2026 16:13,5/8/2026 16:13
+514,3,3644218038,Itoro Aminu,78,SME,Cross-River,Calabar,10/19/2025 7:27,10/19/2025 7:27
+515,12,7972063481,Grace Daloba,48,SME,Benin City,Edo,12/19/2025 5:34,12/19/2025 5:34
+516,2,1774656267,Grace Adeyemi,60,SME,Owerri,Imo,9/10/2025 16:18,9/10/2025 16:18
+517,6,1179264217,Kachio Daloba,51,SME,Enugu,Enugu,1/4/2026 17:56,1/4/2026 17:56
+518,10,1391652701,Kuyet Igwe,25,SME,Kaduna,Kaduna,4/15/2026 2:06,4/15/2026 2:06
+519,12,9553386059,Chinedu Mohammed,42,Corporate,Ikeja,Lagos,4/7/2026 3:18,4/7/2026 3:18
+520,18,6973544243,Aisha Musa,40,SME,Ondo,Akure,7/24/2026 9:57,7/24/2026 9:57
+521,11,7679896754,Tolani Ameh,21,SME,Ikeja,Lagos,12/12/2025 23:40,12/12/2025 23:40
+522,5,6078005096,Ifunanya Munir,70,SME,Ibadan,Oyo,1/10/2026 18:27,1/10/2026 18:27
+523,17,8505153796,Pelumi Nnamdi,20,Individual,Port Harcourt,Rivers,6/26/2026 18:47,6/26/2026 18:47
+524,12,8566595954,Oluwaseun Okoro,65,Corporate,Uyo,Akwa Ibom,8/21/2025 18:14,8/21/2025 18:14
+525,13,7835550135,Nabari Ameh,49,Individual,Abuja,FCT,5/29/2026 15:33,5/29/2026 15:33
+526,4,2132356560,Babajide Musa,39,Corporate,Enugu,Enugu,12/19/2025 11:42,12/19/2025 11:42
+527,10,3598999309,Ngozi Nnamdi,75,SME,Cross-River,Calabar,8/14/2026 1:20,8/14/2026 1:20
+528,3,5707291113,Amari Balogun,69,SME,Benin City,Edo,10/11/2025 9:11,10/11/2025 9:11
+529,8,8545716632,Amina Ogunleye,40,SME,Port Harcourt,Rivers,12/7/2025 8:13,12/7/2025 8:13
+530,10,7467189433,Matteo Musa,74,Corporate,Port Harcourt,Rivers,8/13/2026 7:36,8/13/2026 7:36
+531,5,9900814544,Yayock Abubakar,33,SME,Port Harcourt,Rivers,11/30/2025 16:08,11/30/2025 16:08
+532,12,1769477802,Amari Danjuma,41,SME,Ikeja,Lagos,11/22/2025 12:28,11/22/2025 12:28
+533,1,679068429,Ifunanya Abubakar,43,Corporate,Kaduna,Kaduna,5/12/2026 10:25,5/12/2026 10:25
+534,3,9821661144,Matteo Yambuat,57,SME,Owerri,Imo,6/23/2026 10:50,6/23/2026 10:50
+535,1,3142432843,Blessing Nwosu,72,Corporate,Owerri,Imo,9/3/2025 18:34,9/3/2025 18:34
+536,5,4520900254,Koni Ikuponiyi,58,SME,Jos,Plateau,6/10/2026 22:17,6/10/2026 22:17
+537,3,7006780620,Itoro McCarthy,34,Corporate,Ikeja,Lagos,1/7/2026 14:12,1/7/2026 14:12
+538,5,6085744134,Faith Bishio,71,Corporate,Uyo,Akwa Ibom,5/31/2026 5:15,5/31/2026 5:15
+539,1,8476633713,Kasham Uzo,31,Corporate,Ibadan,Oyo,6/16/2026 6:24,6/16/2026 6:24
+540,7,7982532274,Yayock Daloba,56,Corporate,Owerri,Imo,6/23/2026 14:43,6/23/2026 14:43
+541,14,2468422499,Babajide Sani,67,Corporate,Ondo,Akure,2/4/2026 21:15,2/4/2026 21:15
+542,2,1975302873,Kachio Eze,33,Corporate,Owerri,Imo,7/11/2026 20:42,7/11/2026 20:42
+543,13,3083159684,Faith McCarthy,54,Individual,Benin City,Edo,8/28/2025 22:08,8/28/2025 22:08
+544,9,2946871066,Joshua Sani,30,Individual,Ondo,Akure,11/22/2025 3:41,11/22/2025 3:41
+545,6,6775764991,Tissan Ibe,64,Individual,Kaduna,Kaduna,2/24/2026 18:38,2/24/2026 18:38
+546,16,9071661156,Koni Ikuponiyi,45,Corporate,Kaduna,Kaduna,5/19/2026 3:34,5/19/2026 3:34
+547,18,6104297095,Joshua Mohammed,78,Individual,Abuja,FCT,10/22/2025 5:55,10/22/2025 5:55
+548,3,782734214,Shim Ibrahim,66,Individual,Port Harcourt,Rivers,4/3/2026 13:12,4/3/2026 13:12
+549,5,5889279007,Kachio Ogunleye,24,Corporate,Ondo,Akure,11/10/2025 1:46,11/10/2025 1:46
+550,10,8898408394,Zhea Adebayo,27,Individual,Lagos,Lagos,5/10/2026 17:50,5/10/2026 17:50
+551,10,6299352455,Kasham Munir,71,Corporate,Owerri,Imo,9/4/2025 23:33,9/4/2025 23:33
+552,15,9054147819,Babajide Musa,52,SME,Jos,Plateau,10/16/2025 11:41,10/16/2025 11:41
+553,13,1809092290,Chinedu Ikuponiyi,65,Corporate,Ondo,Akure,5/6/2026 17:05,5/6/2026 17:05
+554,1,3332408463,Aisha Daloba,34,SME,Ikeja,Lagos,7/3/2026 22:52,7/3/2026 22:52
+555,4,7423017588,Amina Bello,49,Corporate,Enugu,Enugu,2/13/2026 8:03,2/13/2026 8:03
+556,3,8010639871,Obinna Munir,72,SME,Jos,Plateau,8/27/2025 22:05,8/27/2025 22:05
+557,1,7053031989,Yayock Mohammed,61,Individual,Kano,Kano,6/15/2026 22:04,6/15/2026 22:04
+558,13,8591636367,Adunni Eze,64,Individual,Port Harcourt,Rivers,1/5/2026 11:35,1/5/2026 11:35
+559,10,8839624855,Amina Tony,25,SME,Benin City,Edo,9/22/2025 11:36,9/22/2025 11:36
+560,17,690194221,Tolani Suleiman,37,Individual,Benin City,Edo,8/28/2025 7:02,8/28/2025 7:02
+561,13,4838147332,Faith Ameh,35,Individual,Uyo,Akwa Ibom,1/22/2026 23:08,1/22/2026 23:08
+562,1,7545551712,Ifunanya Garba,76,Individual,Enugu,Enugu,6/25/2026 2:14,6/25/2026 2:14
+563,17,4953064571,Femi Chukwu,36,Corporate,Owerri,Imo,4/6/2026 8:55,4/6/2026 8:55
+564,11,4496780458,Matteo Kator,55,Individual,Abuja,FCT,2/13/2026 2:42,2/13/2026 2:42
+565,2,5255413819,Faith Munir,27,Corporate,Enugu,Enugu,12/28/2025 14:39,12/28/2025 14:39
+566,2,1227450814,Adunni Okonkwo,19,Individual,Jos,Plateau,4/8/2026 18:50,4/8/2026 18:50
+567,9,1922471534,Yusuf Balogun,22,Corporate,Cross-River,Calabar,12/19/2025 21:08,12/19/2025 21:08
+568,17,1232098511,Amari McCarthy,29,SME,Port Harcourt,Rivers,4/7/2026 5:21,4/7/2026 5:21
+569,14,1618864615,Earnest Ikuponiyi,51,Individual,Kaduna,Kaduna,6/27/2026 9:56,6/27/2026 9:56
+570,1,7088136849,Yusuf Ibe,80,SME,Kaduna,Kaduna,3/15/2026 21:11,3/15/2026 21:11
+571,2,5803172549,Tunde Balogun,32,SME,Ondo,Akure,5/6/2026 9:35,5/6/2026 9:35
+572,9,8395346733,Tolani Igwe,52,SME,Uyo,Akwa Ibom,1/15/2026 4:58,1/15/2026 4:58
+573,4,3352774871,Katurak Bishio,62,SME,Cross-River,Calabar,7/15/2026 14:16,7/15/2026 14:16
+574,5,3679480841,Grace Balogun,60,Individual,Ondo,Akure,10/13/2025 12:58,10/13/2025 12:58
+575,13,1050254779,Obinna Daloba,24,SME,Lagos,Lagos,5/26/2026 6:49,5/26/2026 6:49
+576,2,266501443,Zhea Mohammed,60,SME,Jos,Plateau,3/13/2026 14:22,3/13/2026 14:22
+577,12,2729617348,Amari Aminu,19,Corporate,Port Harcourt,Rivers,12/7/2025 9:11,12/7/2025 9:11
+578,6,9870552575,Adaeze Okonkwo,27,Corporate,Cross-River,Calabar,12/26/2025 18:42,12/26/2025 18:42
+579,4,8079291567,Zainab Kator,58,SME,Cross-River,Calabar,8/24/2025 6:58,8/24/2025 6:58
+580,4,6373294850,Faith Balogun,66,SME,Uyo,Akwa Ibom,2/6/2026 20:42,2/6/2026 20:42
+581,4,7957358279,Joshua Suleiman,42,SME,Uyo,Akwa Ibom,12/18/2025 0:25,12/18/2025 0:25
+582,13,8185446716,Amina Danjuma,78,SME,Port Harcourt,Rivers,9/7/2025 3:18,9/7/2025 3:18
+583,4,8152236309,Obinna Chukwu,77,Corporate,Jos,Plateau,8/21/2025 11:59,8/21/2025 11:59
+584,3,5060472585,Amina Adebayo,24,Individual,Benin City,Edo,12/19/2025 5:40,12/19/2025 5:40
+585,13,8393384638,Zainab Kator,76,Individual,Jos,Plateau,2/6/2026 1:51,2/6/2026 1:51
+586,1,8301965132,Amari Nnamdi,30,SME,Abuja,FCT,3/26/2026 15:08,3/26/2026 15:08
+587,2,1631134322,Matteo Suleiman,72,Corporate,Owerri,Imo,5/8/2026 22:40,5/8/2026 22:40
+588,18,4589468385,Ngozi Nwosu,22,Corporate,Ikeja,Lagos,12/12/2025 2:36,12/12/2025 2:36
+589,3,9551183959,Tissan Ameh,48,Individual,Benin City,Edo,1/13/2026 8:03,1/13/2026 8:03
+590,2,3534070965,Tunde Ogunleye,36,SME,Uyo,Akwa Ibom,6/18/2026 13:38,6/18/2026 13:38
+591,18,6127780442,Halima Balogun,20,Individual,Ibadan,Oyo,12/10/2025 14:58,12/10/2025 14:58
+592,9,1684473440,Oluwaseun Igwe,55,SME,Cross-River,Calabar,2/14/2026 21:22,2/14/2026 21:22
+593,16,7960169667,Micheal Eze,60,Individual,Uyo,Akwa Ibom,1/8/2026 15:30,1/8/2026 15:30
+594,2,2076505154,Tissan Munir,59,Corporate,Abuja,FCT,3/4/2026 0:47,3/4/2026 0:47
+595,7,128076667,Shim Ibrahim,54,Corporate,Abuja,FCT,7/4/2026 21:29,7/4/2026 21:29
+596,17,6045762999,Adunni Suleiman,66,SME,Abuja,FCT,2/8/2026 18:47,2/8/2026 18:47
+597,9,7586447715,Obinna Adebayo,35,Individual,Ibadan,Oyo,6/2/2026 19:37,6/2/2026 19:37
+598,11,3603916859,Aisha Bishio,65,Individual,Enugu,Enugu,7/16/2026 1:48,7/16/2026 1:48
+599,14,4389301377,Faith Abubakar,40,SME,Abuja,FCT,3/2/2026 21:38,3/2/2026 21:38
+600,13,475222331,Katurak Mohammed,60,Individual,Lagos,Lagos,10/30/2025 4:38,10/30/2025 4:38
+601,4,7887758925,Blessing Akanbi,27,Individual,Benin City,Edo,1/28/2026 21:55,1/28/2026 21:55
+602,14,2373203524,Yusuf Ibe,68,SME,Kano,Kano,1/25/2026 21:36,1/25/2026 21:36
+603,8,7790114149,Babajide Yambuat,60,Individual,Port Harcourt,Rivers,10/26/2025 5:06,10/26/2025 5:06
+604,7,6305603641,Amari Igwe,21,Individual,Port Harcourt,Rivers,9/19/2025 16:14,9/19/2025 16:14
+605,4,6266698399,Folake Abubakar,32,SME,Ondo,Akure,2/10/2026 10:49,2/10/2026 10:49
+606,5,6935823454,Adaeze Ibrahim,24,Individual,Ibadan,Oyo,12/20/2025 13:06,12/20/2025 13:06
+607,18,8722238129,Kachio Nwosu,47,SME,Ibadan,Oyo,1/21/2026 22:22,1/21/2026 22:22
+608,16,5965675334,Joshua Tony,24,Individual,Kano,Kano,11/1/2025 8:27,11/1/2025 8:27
+609,18,8539363649,Amari Eze,59,Individual,Benin City,Edo,2/5/2026 1:17,2/5/2026 1:17
+610,13,7162574624,Emeka Oni,35,Corporate,Cross-River,Calabar,11/14/2025 21:42,11/14/2025 21:42
+611,8,3011060563,Micheal Yambuat,31,Corporate,Enugu,Enugu,1/30/2026 13:19,1/30/2026 13:19
+612,1,286063990,Aisha Akanbi,19,Corporate,Owerri,Imo,1/2/2026 13:40,1/2/2026 13:40
+613,18,614205725,Matteo Adenuga,61,Individual,Ondo,Akure,3/16/2026 0:20,3/16/2026 0:20
+614,7,7404269021,Folake Obaje,65,SME,Ikeja,Lagos,1/7/2026 9:14,1/7/2026 9:14
+615,15,6176654083,Chukwuemeka Ibrahim,49,SME,Kaduna,Kaduna,9/14/2025 22:04,9/14/2025 22:04
+616,11,3447907438,Earnest Danjuma,67,SME,Kaduna,Kaduna,4/15/2026 20:31,4/15/2026 20:31
+617,18,7335820563,Nabari Musa,68,SME,Lagos,Lagos,3/9/2026 6:47,3/9/2026 6:47
+618,16,2863202737,Oluwaseun Okoro,43,SME,Port Harcourt,Rivers,7/30/2026 22:06,7/30/2026 22:06
+619,1,661576909,Blessing McCarthy,18,Corporate,Ibadan,Oyo,9/10/2025 1:08,9/10/2025 1:08
+620,15,1716194000,Amari Sani,33,Corporate,Abuja,FCT,1/15/2026 2:40,1/15/2026 2:40
+621,8,9848765976,Tunde Bello,47,Individual,Port Harcourt,Rivers,5/23/2026 5:07,5/23/2026 5:07
+622,12,7611664075,Kachio Tony,47,SME,Uyo,Akwa Ibom,12/13/2025 21:54,12/13/2025 21:54
+623,6,2380728684,Femi Uzo,24,Corporate,Kaduna,Kaduna,2/25/2026 4:27,2/25/2026 4:27
+624,13,3898223598,Tissan Suleiman,41,Individual,Owerri,Imo,3/29/2026 10:26,3/29/2026 10:26
+625,9,333021458,Earnest Obaje,70,Corporate,Kaduna,Kaduna,11/29/2025 7:10,11/29/2025 7:10
+626,4,4741953222,Tunde Garba,31,Corporate,Jos,Plateau,3/18/2026 2:59,3/18/2026 2:59
+627,8,8807604204,Blessing Nnamdi,26,Individual,Uyo,Akwa Ibom,11/9/2025 5:09,11/9/2025 5:09
+628,18,5875062889,Folake Suleiman,62,SME,Enugu,Enugu,11/27/2025 19:48,11/27/2025 19:48
+629,9,926799487,Tunde Okoro,55,SME,Kaduna,Kaduna,10/16/2025 16:54,10/16/2025 16:54
+630,16,2935168993,Koni Kator,41,Corporate,Kano,Kano,6/20/2026 4:52,6/20/2026 4:52
+631,11,7892878708,Kasham Adenuga,78,Individual,Port Harcourt,Rivers,9/22/2025 4:28,9/22/2025 4:28
+632,11,8856142602,Kasham Chukwu,60,Corporate,Cross-River,Calabar,5/26/2026 22:56,5/26/2026 22:56
+633,8,5546272125,Tissan Suleiman,40,Individual,Kaduna,Kaduna,10/21/2025 21:58,10/21/2025 21:58
+634,12,2155614046,Chukwuemeka Oni,65,Individual,Ikeja,Lagos,7/4/2026 20:46,7/4/2026 20:46
+635,7,3802531907,Femi Ameh,52,Corporate,Abuja,FCT,9/11/2025 22:57,9/11/2025 22:57
+636,14,2833974250,Adunni Okoro,80,SME,Cross-River,Calabar,2/1/2026 0:11,2/1/2026 0:11
+637,15,3440791394,Adunni Oni,76,SME,Uyo,Akwa Ibom,1/6/2026 0:35,1/6/2026 0:35
+638,9,6010091246,Kachio Munir,61,Corporate,Cross-River,Calabar,4/8/2026 11:37,4/8/2026 11:37
+639,3,9965088388,Emeka Yambuat,25,Corporate,Port Harcourt,Rivers,2/12/2026 22:48,2/12/2026 22:48
+640,2,4022263624,Adunni Uzo,36,SME,Owerri,Imo,3/4/2026 7:38,3/4/2026 7:38
+641,5,5270090153,Yayock Adeyemi,25,SME,Lagos,Lagos,9/17/2025 18:02,9/17/2025 18:02
+642,8,8159627275,Fortunatus Aminu,19,Individual,Cross-River,Calabar,9/22/2025 1:33,9/22/2025 1:33
+643,4,6821293164,Tolani Igwe,35,Corporate,Uyo,Akwa Ibom,1/27/2026 3:56,1/27/2026 3:56
+644,13,4816121430,Nabari Obaje,45,Corporate,Kano,Kano,5/19/2026 15:10,5/19/2026 15:10
+645,4,4605076964,Tolani Okonkwo,55,Corporate,Ondo,Akure,11/24/2025 5:05,11/24/2025 5:05
+646,14,8478427499,Zhea McCarthy,27,Corporate,Benin City,Edo,3/3/2026 22:38,3/3/2026 22:38
+647,15,3420110132,Earnest Tony,40,Corporate,Uyo,Akwa Ibom,12/10/2025 2:06,12/10/2025 2:06
+648,11,2522246540,Tunde Sani,59,Corporate,Enugu,Enugu,10/27/2025 13:35,10/27/2025 13:35
+649,3,3156108376,Femi McCarthy,76,Corporate,Owerri,Imo,7/5/2026 18:41,7/5/2026 18:41
+650,2,933572284,Pelumi Kator,41,Corporate,Abuja,FCT,8/8/2026 4:35,8/8/2026 4:35
+651,15,4946269525,Ibrahim Adenuga,67,Corporate,Kaduna,Kaduna,1/25/2026 14:12,1/25/2026 14:12
+652,13,7768464658,Abasi Garba,33,SME,Ikeja,Lagos,1/31/2026 5:14,1/31/2026 5:14
+653,2,9345656144,Ngozi Tony,23,SME,Port Harcourt,Rivers,5/27/2026 8:04,5/27/2026 8:04
+654,11,5255224467,Kuyet Yambuat,18,Individual,Benin City,Edo,9/22/2025 19:15,9/22/2025 19:15
+655,17,1973043277,Earnest Adebayo,66,Corporate,Owerri,Imo,1/10/2026 0:31,1/10/2026 0:31
+656,2,513992620,Halima Ogunleye,58,SME,Benin City,Edo,4/19/2026 18:57,4/19/2026 18:57
+657,15,2328862928,Kuyet Ameh,56,Individual,Ibadan,Oyo,6/2/2026 14:55,6/2/2026 14:55
+658,10,7387980155,Kasham Uzo,53,SME,Cross-River,Calabar,1/14/2026 15:20,1/14/2026 15:20
+659,2,1911647528,Yusuf Oni,32,SME,Abuja,FCT,8/11/2026 1:18,8/11/2026 1:18
+660,12,2676696525,Ifunanya Danjuma,29,SME,Ibadan,Oyo,8/11/2026 23:01,8/11/2026 23:01
+661,6,2990288441,Grace Kator,51,Corporate,Owerri,Imo,8/22/2025 5:52,8/22/2025 5:52
+662,6,6211258375,Chukwuemeka Ikuponiyi,31,Corporate,Enugu,Enugu,9/26/2025 7:38,9/26/2025 7:38
+663,12,8452388459,Katurak Uzo,66,Individual,Ondo,Akure,5/5/2026 13:11,5/5/2026 13:11
+664,4,2545194337,Katurak Munir,65,Corporate,Kano,Kano,6/16/2026 9:52,6/16/2026 9:52
+665,15,682943674,Halima Ibrahim,75,SME,Jos,Plateau,3/12/2026 5:06,3/12/2026 5:06
+666,6,7299152004,Adunni Akanbi,66,Individual,Enugu,Enugu,12/23/2025 11:23,12/23/2025 11:23
+667,4,4109012691,Nabari Suleiman,70,Corporate,Ibadan,Oyo,7/8/2026 7:00,7/8/2026 7:00
+668,8,6140307380,Faith Aminu,56,Individual,Ikeja,Lagos,7/21/2026 12:31,7/21/2026 12:31
+669,5,8774294972,Kasham Nwosu,41,SME,Owerri,Imo,1/7/2026 0:57,1/7/2026 0:57
+670,18,3911042473,Aisha Danjuma,59,Corporate,Ibadan,Oyo,6/19/2026 9:28,6/19/2026 9:28
+671,9,8447767835,Oluwaseun Akanbi,55,SME,Benin City,Edo,10/10/2025 0:37,10/10/2025 0:37
+672,7,1235631833,Matteo Obaje,23,Corporate,Cross-River,Calabar,1/19/2026 8:41,1/19/2026 8:41
+673,9,4630763950,Zainab Sani,71,Corporate,Lagos,Lagos,9/7/2025 17:10,9/7/2025 17:10
+674,12,5696657,Grace McCarthy,18,SME,Ibadan,Oyo,1/9/2026 7:32,1/9/2026 7:32
+675,10,1579282143,Itoro Sani,58,Corporate,Lagos,Lagos,8/1/2026 19:29,8/1/2026 19:29
+676,9,4996640382,Chinedu McCarthy,75,Individual,Ikeja,Lagos,4/19/2026 1:42,4/19/2026 1:42
+677,17,1892577629,Katurak Okonkwo,46,SME,Kaduna,Kaduna,1/22/2026 14:40,1/22/2026 14:40
+678,9,5173087865,Adunni Sani,56,Individual,Ibadan,Oyo,11/4/2025 1:23,11/4/2025 1:23
+679,6,9415961089,Ngozi Sani,68,Individual,Lagos,Lagos,11/15/2025 12:44,11/15/2025 12:44
+680,1,8998952840,Kachio Chukwu,73,SME,Ondo,Akure,11/9/2025 4:34,11/9/2025 4:34
+681,16,333091959,Chinedu Abubakar,75,Corporate,Benin City,Edo,11/21/2025 11:59,11/21/2025 11:59
+682,18,4575692616,Chiamaka Uzo,57,Individual,Ikeja,Lagos,2/23/2026 21:06,2/23/2026 21:06
+683,16,8721756871,Abasi Ogunleye,64,Individual,Jos,Plateau,10/25/2025 0:03,10/25/2025 0:03
+684,8,4251582337,Folake Garba,36,Individual,Ibadan,Oyo,10/10/2025 3:20,10/10/2025 3:20
+685,17,7619094516,Faith Adeyemi,77,Corporate,Owerri,Imo,12/2/2025 0:15,12/2/2025 0:15
+686,11,3660068522,Tunde Daloba,41,SME,Jos,Plateau,2/6/2026 6:45,2/6/2026 6:45
+687,1,7796894174,Tolani Chukwu,25,SME,Abuja,FCT,10/14/2025 1:54,10/14/2025 1:54
+688,8,3235967903,Aisha Ogunleye,58,SME,Ondo,Akure,12/13/2025 8:32,12/13/2025 8:32
+689,15,9945419717,Folake Danjuma,30,Individual,Uyo,Akwa Ibom,1/13/2026 23:05,1/13/2026 23:05
+690,11,4134579752,Micheal Igwe,35,Corporate,Enugu,Enugu,9/2/2025 15:49,9/2/2025 15:49
+691,14,324257706,Folake Adeyemi,46,SME,Lagos,Lagos,6/9/2026 2:57,6/9/2026 2:57
+692,17,89178744,Tissan Oni,79,Corporate,Ondo,Akure,5/31/2026 20:14,5/31/2026 20:14
+693,1,9481819809,Earnest Aminu,28,Corporate,Enugu,Enugu,6/27/2026 17:05,6/27/2026 17:05
+694,1,2364841102,Adunni Ibrahim,26,SME,Abuja,FCT,9/24/2025 14:21,9/24/2025 14:21
+695,1,768011316,Tissan Yambuat,47,SME,Ibadan,Oyo,6/5/2026 21:47,6/5/2026 21:47
+696,5,9179380674,Kuyet Suleiman,38,Corporate,Ikeja,Lagos,3/18/2026 14:14,3/18/2026 14:14
+697,14,7759555740,Fortunatus Nnamdi,52,SME,Enugu,Enugu,4/8/2026 11:23,4/8/2026 11:23
+698,9,221543438,Emeka Bello,80,Individual,Jos,Plateau,11/12/2025 0:11,11/12/2025 0:11
+699,2,5087288753,Katurak Okonkwo,66,Corporate,Abuja,FCT,4/6/2026 14:45,4/6/2026 14:45
+700,10,2798776083,Koni Suleiman,22,Individual,Port Harcourt,Rivers,4/30/2026 6:53,4/30/2026 6:53
+701,10,1204548094,Blessing Adenuga,47,Individual,Jos,Plateau,7/6/2026 17:15,7/6/2026 17:15
+702,16,4661699284,Oluwaseun Munir,77,Individual,Kaduna,Kaduna,2/4/2026 18:17,2/4/2026 18:17
+703,6,6441466307,Fortunatus Garba,76,SME,Abuja,FCT,9/2/2025 6:12,9/2/2025 6:12
+704,3,9810176759,Tissan Oni,73,Individual,Port Harcourt,Rivers,1/4/2026 18:25,1/4/2026 18:25
+705,7,2370705083,Itoro Akanbi,63,Individual,Ibadan,Oyo,6/15/2026 21:16,6/15/2026 21:16
+706,2,6169311108,Amari Ameh,19,SME,Benin City,Edo,3/29/2026 0:52,3/29/2026 0:52
+707,9,9021161532,Adunni Abubakar,46,SME,Jos,Plateau,6/25/2026 18:44,6/25/2026 18:44
+708,15,5662589532,Obinna Ogunleye,20,Corporate,Abuja,FCT,7/31/2026 17:20,7/31/2026 17:20
+709,16,3648800702,Babajide Nwosu,53,SME,Port Harcourt,Rivers,9/9/2025 23:48,9/9/2025 23:48
+710,15,4470393276,Yusuf Oni,59,SME,Abuja,FCT,8/13/2026 2:15,8/13/2026 2:15
+711,11,1334589468,Emeka Sani,56,SME,Jos,Plateau,6/30/2026 3:25,6/30/2026 3:25
+712,4,1240385229,Adunni Bello,25,Individual,Enugu,Enugu,6/1/2026 19:58,6/1/2026 19:58
+713,14,5541932235,Ifunanya Aminu,30,Individual,Lagos,Lagos,1/15/2026 0:49,1/15/2026 0:49
+714,15,755406435,Amina Akanbi,23,SME,Ondo,Akure,9/7/2025 16:50,9/7/2025 16:50
+715,2,2709876130,Chukwuemeka Sani,29,Corporate,Ikeja,Lagos,11/1/2025 14:46,11/1/2025 14:46
+716,15,8316627123,Joshua Okonkwo,80,SME,Abuja,FCT,4/25/2026 6:20,4/25/2026 6:20
+717,2,9095230141,Chiamaka Yambuat,18,Corporate,Ondo,Akure,3/28/2026 7:23,3/28/2026 7:23
+718,5,2864737548,Katurak Adeyemi,24,SME,Jos,Plateau,7/12/2026 13:00,7/12/2026 13:00
+719,9,6540249667,Yayock Suleiman,31,Corporate,Kano,Kano,12/17/2025 12:18,12/17/2025 12:18
+720,10,1861640954,Faith Akanbi,65,Corporate,Ikeja,Lagos,3/13/2026 15:54,3/13/2026 15:54
+721,16,11544903,Itoro Tony,26,SME,Cross-River,Calabar,5/12/2026 17:18,5/12/2026 17:18
+722,10,9759942866,Tissan Daloba,67,Corporate,Enugu,Enugu,11/17/2025 23:19,11/17/2025 23:19
+723,3,7869915464,Fortunatus Okafor,19,Corporate,Ibadan,Oyo,5/14/2026 15:40,5/14/2026 15:40
+724,13,1625157842,Emeka Okafor,18,SME,Kaduna,Kaduna,8/22/2025 15:08,8/22/2025 15:08
+725,13,1895979581,Chinedu Adebayo,72,Corporate,Abuja,FCT,2/16/2026 8:01,2/16/2026 8:01
+726,8,764315140,Adunni Eze,54,SME,Ibadan,Oyo,10/20/2025 7:02,10/20/2025 7:02
+727,15,2002454666,Yusuf Ikuponiyi,32,Corporate,Cross-River,Calabar,1/20/2026 0:37,1/20/2026 0:37
+728,3,8182002376,Adunni Nnamdi,36,SME,Jos,Plateau,11/28/2025 21:16,11/28/2025 21:16
+729,18,1272912521,Micheal Oni,46,Corporate,Lagos,Lagos,11/24/2025 8:59,11/24/2025 8:59
+730,7,7087646207,Zainab Nwosu,69,Individual,Kaduna,Kaduna,7/11/2026 21:08,7/11/2026 21:08
+731,6,7761040093,Amina Ikuponiyi,75,SME,Kaduna,Kaduna,12/27/2025 1:50,12/27/2025 1:50
+732,11,6295997522,Grace Akanbi,29,SME,Port Harcourt,Rivers,6/18/2026 22:51,6/18/2026 22:51
+733,4,8831342739,Zhea Suleiman,45,Individual,Owerri,Imo,9/25/2025 1:21,9/25/2025 1:21
+734,5,1233729488,Adunni Kator,26,Corporate,Abuja,FCT,1/3/2026 21:21,1/3/2026 21:21
+735,9,3616284614,Micheal Okoro,35,Individual,Owerri,Imo,12/27/2025 16:04,12/27/2025 16:04
+736,15,745103969,Joshua Bishio,52,Corporate,Port Harcourt,Rivers,11/1/2025 16:16,11/1/2025 16:16
+737,14,6925671935,Yusuf Ameh,80,SME,Port Harcourt,Rivers,6/10/2026 9:53,6/10/2026 9:53
+738,17,197266403,Joshua Musa,30,Individual,Jos,Plateau,9/1/2025 8:45,9/1/2025 8:45
+739,14,2568900170,Adunni Adeyemi,52,SME,Kaduna,Kaduna,7/22/2026 21:57,7/22/2026 21:57
+740,15,8934689875,Yusuf Daloba,27,Corporate,Ibadan,Oyo,3/3/2026 8:33,3/3/2026 8:33
+741,14,8703679174,Amari Ibe,73,SME,Kaduna,Kaduna,2/14/2026 5:55,2/14/2026 5:55
+742,9,1018190914,Femi Chukwu,59,Corporate,Owerri,Imo,4/7/2026 0:23,4/7/2026 0:23
+743,16,7809865606,Itoro Ikuponiyi,63,Individual,Kano,Kano,9/3/2025 17:34,9/3/2025 17:34
+744,1,195202655,Babajide Oni,38,Individual,Cross-River,Calabar,2/16/2026 5:07,2/16/2026 5:07
+745,6,1218500962,Ibrahim Ikuponiyi,57,SME,Ondo,Akure,4/8/2026 1:33,4/8/2026 1:33
+746,13,420982400,Chinedu Ogunleye,79,Corporate,Kaduna,Kaduna,8/22/2025 14:20,8/22/2025 14:20
+747,3,4911646488,Fortunatus Ikuponiyi,78,SME,Uyo,Akwa Ibom,10/18/2025 22:11,10/18/2025 22:11
+748,13,6654459333,Aisha Adebayo,66,Individual,Ikeja,Lagos,10/17/2025 21:24,10/17/2025 21:24
+749,7,7564000829,Micheal Eze,71,Corporate,Kaduna,Kaduna,5/1/2026 15:13,5/1/2026 15:13
+750,4,3271501094,Matteo Abubakar,58,Individual,Uyo,Akwa Ibom,11/27/2025 11:34,11/27/2025 11:34
+751,7,4345527901,Emeka Abubakar,38,Corporate,Ondo,Akure,3/15/2026 14:33,3/15/2026 14:33
+752,16,2594386564,Chukwuemeka Abubakar,79,Corporate,Uyo,Akwa Ibom,6/5/2026 19:00,6/5/2026 19:00
+753,16,476077227,Kuyet Eze,34,SME,Port Harcourt,Rivers,7/5/2026 11:13,7/5/2026 11:13
+754,12,5037960636,Yayock Abubakar,38,Corporate,Uyo,Akwa Ibom,11/23/2025 11:44,11/23/2025 11:44
+755,6,6317436777,Amina Suleiman,41,SME,Ondo,Akure,9/17/2025 4:42,9/17/2025 4:42
+756,5,5902622393,Zhea Uzo,56,Individual,Lagos,Lagos,10/7/2025 14:20,10/7/2025 14:20
+757,7,9275161799,Fortunatus Suleiman,55,SME,Kano,Kano,6/8/2026 15:21,6/8/2026 15:21
+758,11,8037856276,Ngozi Aminu,70,SME,Benin City,Edo,5/13/2026 7:11,5/13/2026 7:11
+759,17,950515314,Emeka Igwe,49,Individual,Ondo,Akure,7/12/2026 0:48,7/12/2026 0:48
+760,1,7611413351,Micheal Musa,22,Corporate,Cross-River,Calabar,8/2/2026 2:18,8/2/2026 2:18
+761,2,5002231519,Tunde Adeyemi,45,SME,Port Harcourt,Rivers,4/24/2026 14:25,4/24/2026 14:25
+762,14,8832599711,Shim Ikuponiyi,73,Corporate,Ikeja,Lagos,1/16/2026 17:36,1/16/2026 17:36
+763,15,6547578069,Chinedu Ibrahim,43,SME,Ikeja,Lagos,9/25/2025 6:07,9/25/2025 6:07
+764,5,4482343007,Tissan Suleiman,73,SME,Kaduna,Kaduna,9/30/2025 2:18,9/30/2025 2:18
+765,13,3235175875,Abasi Ibe,34,SME,Lagos,Lagos,1/14/2026 12:53,1/14/2026 12:53
+766,17,1431214026,Tolani Akanbi,32,Corporate,Ondo,Akure,7/8/2026 11:53,7/8/2026 11:53
+767,14,8895948312,Zhea Ibrahim,73,SME,Enugu,Enugu,10/14/2025 21:55,10/14/2025 21:55
+768,8,3358810071,Kachio Kator,63,Corporate,Benin City,Edo,11/27/2025 7:16,11/27/2025 7:16
+769,1,3227783955,Itoro Adeyemi,23,Individual,Kaduna,Kaduna,1/23/2026 9:45,1/23/2026 9:45
+770,9,2779674168,Abasi Nwosu,44,Corporate,Ibadan,Oyo,2/13/2026 8:39,2/13/2026 8:39
+771,7,4629234416,Amina Kator,77,Corporate,Enugu,Enugu,7/9/2026 3:45,7/9/2026 3:45
+772,2,4866131495,Earnest Yambuat,23,SME,Lagos,Lagos,9/3/2025 15:15,9/3/2025 15:15
+773,4,3711235135,Koni Suleiman,75,Individual,Benin City,Edo,10/4/2025 17:43,10/4/2025 17:43
+774,9,7868496290,Shim Suleiman,21,SME,Ibadan,Oyo,12/30/2025 17:54,12/30/2025 17:54
+775,4,3311914012,Folake Mohammed,43,Corporate,Lagos,Lagos,11/12/2025 8:46,11/12/2025 8:46
+776,1,4205398887,Grace Ibe,23,SME,Lagos,Lagos,10/22/2025 9:07,10/22/2025 9:07
+777,15,1424712358,Chiamaka Bello,50,Corporate,Cross-River,Calabar,1/27/2026 8:22,1/27/2026 8:22
+778,6,8914139446,Femi Suleiman,21,Individual,Enugu,Enugu,11/3/2025 14:15,11/3/2025 14:15
+779,9,8096298233,Tunde Garba,52,SME,Benin City,Edo,1/9/2026 20:16,1/9/2026 20:16
+780,11,6387890698,Zainab Uzo,38,Corporate,Ibadan,Oyo,5/3/2026 4:50,5/3/2026 4:50
+781,14,2511965510,Blessing Okoro,29,SME,Port Harcourt,Rivers,7/8/2026 12:59,7/8/2026 12:59
+782,12,7794877815,Folake Igwe,66,SME,Enugu,Enugu,7/5/2026 21:00,7/5/2026 21:00
+783,3,1476710562,Chiamaka Okonkwo,34,SME,Cross-River,Calabar,5/6/2026 20:34,5/6/2026 20:34
+784,14,6445609474,Adaeze Daloba,68,SME,Benin City,Edo,3/2/2026 17:24,3/2/2026 17:24
+785,17,9183617394,Adaeze Daloba,79,Corporate,Enugu,Enugu,6/28/2026 23:39,6/28/2026 23:39
+786,14,3584767133,Matteo Garba,78,Individual,Uyo,Akwa Ibom,12/15/2025 13:59,12/15/2025 13:59
+787,2,8278772554,Yusuf Balogun,29,Corporate,Kano,Kano,10/17/2025 0:32,10/17/2025 0:32
+788,14,5926814593,Micheal Sani,53,Corporate,Cross-River,Calabar,2/3/2026 11:12,2/3/2026 11:12
+789,13,7624590801,Yusuf McCarthy,28,SME,Kano,Kano,11/11/2025 21:07,11/11/2025 21:07
+790,12,680319580,Blessing Musa,39,Corporate,Abuja,FCT,11/13/2025 6:26,11/13/2025 6:26
+791,15,3083022143,Obinna Kator,78,Individual,Lagos,Lagos,2/25/2026 8:46,2/25/2026 8:46
+792,4,7027819820,Halima McCarthy,28,SME,Lagos,Lagos,1/9/2026 13:27,1/9/2026 13:27
+793,14,7756951927,Tissan Aminu,69,Corporate,Kano,Kano,9/12/2025 16:22,9/12/2025 16:22
+794,5,4099763843,Earnest Nnamdi,80,SME,Ikeja,Lagos,12/17/2025 15:19,12/17/2025 15:19
+795,14,3628545625,Halima Uzo,52,Corporate,Kano,Kano,5/13/2026 17:13,5/13/2026 17:13
+796,17,1190154808,Oluwaseun Ameh,20,Individual,Cross-River,Calabar,11/14/2025 10:51,11/14/2025 10:51
+797,6,158041219,Chiamaka Danjuma,21,SME,Jos,Plateau,9/23/2025 16:41,9/23/2025 16:41
+798,17,5560129284,Yayock Adebayo,45,SME,Benin City,Edo,7/9/2026 21:35,7/9/2026 21:35
+799,7,6479582442,Babajide Okonkwo,63,SME,Owerri,Imo,11/20/2025 18:31,11/20/2025 18:31
+800,18,3967059918,Tissan Okafor,66,Corporate,Ibadan,Oyo,11/6/2025 20:56,11/6/2025 20:56
